@@ -17,17 +17,12 @@ avatar: https://avatars2.githubusercontent.com/u/3465944?v=3&u=44d216ab8320cea08
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email:
   facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github:paruff/paruff.github.io
   linkedin:
-  pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: paruff
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 

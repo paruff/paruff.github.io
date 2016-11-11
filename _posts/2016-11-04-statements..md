@@ -1,6 +1,6 @@
 ----
-
+layout: post
+title: I statements
 ----
 
-
-THis is my first post in Jekyll
+Tis is my first post in Jekyll

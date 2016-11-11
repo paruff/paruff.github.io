@@ -1,7 +1,7 @@
-----
+---
 layout: post
 title: Ready, Fire, Aim
-----
+---
 
 The perfect writing process is not going to come to me
 without putting things out there for you to read. So many of the blogs will be

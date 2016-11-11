@@ -1,7 +1,7 @@
-----
+---
 layout: post
 title: Sharing the load through empowered delegation
-----
+---
 
 I found some years ago, think it has been twenty ,  the stewardship delegation  structure. I found it useful then and have reason to review it now.
 

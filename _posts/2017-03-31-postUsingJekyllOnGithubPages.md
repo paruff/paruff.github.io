@@ -3,7 +3,7 @@ layout: post
 title: How to Post using Jekyll on GitHub Pages
 ---
 
-Tis is my first post in Jekyll
+
 
 Create a file in the _posts directory with a filename in the format of year-MO-DAY-title.md
 

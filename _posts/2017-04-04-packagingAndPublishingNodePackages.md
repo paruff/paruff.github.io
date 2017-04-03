@@ -5,7 +5,7 @@ summary: "links to info needed to support the packaging and publishing of node m
 date:   2017-04-04 06:16:01 -0600
 published: true
 categories: node packge publish
-tags: node packge publish
+tags: [node, packge, publish]
 ---
 # Packaging and Publishing node.js modules
 ## Packaging

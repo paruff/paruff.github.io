@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Packaging and Publishing node.js modules
+date:   2017-04-04 06:16:01 -0600
+categories: node packge publish
+tags: node packge publish
 ---
 # Packaging and Publishing node.js modules
 ## Packaging

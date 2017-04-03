@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Packaging and Publishing node.js modules
+summary: "links to info needed to support the packaging and publishing of node modules."
 date:   2017-04-04 06:16:01 -0600
+published: true
 categories: node packge publish
 tags: node packge publish
 ---
@@ -16,3 +18,4 @@ https://docs.npmjs.com/getting-started/creating-node-modules
 
 [Nexus publish](https://books.sonatype.com/nexus-book/reference/npm-deploying-packages.html)
 
+{% include links.html %}

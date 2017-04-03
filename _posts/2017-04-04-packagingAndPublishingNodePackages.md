@@ -1,6 +1,6 @@
 ---
 layout: post
-Title:Packaging and Publishing node.js modules
+Title: Packaging and Publishing node.js modules
 ---
 # Packaging and Publishing node.js modules
 ## Packaging

@@ -18,4 +18,4 @@ https://docs.npmjs.com/getting-started/creating-node-modules
 
 [Nexus publish](https://books.sonatype.com/nexus-book/reference/npm-deploying-packages.html)
 
-{% include links.html %}
+

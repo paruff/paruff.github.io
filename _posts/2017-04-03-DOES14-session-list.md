@@ -26,14 +26,14 @@ DevOps Enterprise Summit sessions list
 * [Dibbe Edwards - IBM](https://youtu.be/p9DvalpydbQ)
 * [John Kosco - Blue Agility - Discover How to Improve Productivity by Going DevOps and SAFe](https://youtu.be/2IwvfsiukvE)
 * [Dave Swersky - PNC - DevOps: From the Center Out](https://youtu.be/4IqHzUjzqUI)
-* [Stephen Elliot - IDC - Delivering DevOps Business Metrics that Matter](https://youtu.be/9_ZuEhgTdLc)
-* [Stephen Fishman - Autotrader - Patton, Gandhi & Driving DevOps Adoption](https://youtu.be/3EXJYzl27YI)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Stephen Elliot - IDC - Delivering DevOps Business Metrics that Matter](https://youtu.be/9_ZuEhgTdLc) -  key metrics that large companies are using to gauge the success and measure results utilizing the DevOps discipline.
+* [Stephen Fishman - Autotrader - Patton, Gandhi & Driving DevOps Adoption](https://youtu.be/3EXJYzl27YI) - How to use conversational dynamics and understanding of trust to drive DevOps in your enterprise.
+* [May Xu - Thoughtworks - Transform the Invisible Wall](https://youtu.be/wNCKYjY0uwk) - at least 8 teams across department involved to deliver a new feature, with an average of 4-6 week
+* [Steve Neely - Rally Software](https://youtu.be/BcvCR5FDvH8) - There is no Weekend Release, Only Zuul: Continuous Delivery for a 10-Year-Old Codebase
+* [Joshua Corman - Sonatype](https://youtu.be/K-hskShNyoo) - DevOps Will Save The World! : Public Safety, Public Policy, and DevOps In Context
+* [Shakeel Sorathia - Ticketmaster](https://youtu.be/01gfNOwhnro) - 40 Year Old Company Transformed by Utilizing Cloud & DevOps Strategies
+* [Simon Storm - Promontory](https://youtu.be/P2C7uIHgotA) - Positioning Agile and Continuous Delivery for Auditors and Examiners
+* [Tommy Norman - Holland Square Group](https://youtu.be/OvTkXWO38oM) - Agile DevOps: The Long, Ugly Story of How We Got Better
+* [Bill Donaldson and Aimee Bechtle - The MITRE Corp](https://youtu.be/bSUUWbvFj6E) - Excellent DevOps Journey
+* [Natalie Diggins - Neustar](https://youtu.be/fuASYCO87MU) - Deploy or Die in a DevOps World – High Availability is No Excuse
 * []()

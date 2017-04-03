@@ -1,6 +1,12 @@
 ---
 layout: post
 title: DevOps Enterprise Summit sessions list
+
+summary: "links to sessions of the 2014 DevOps Enterprise Summit sessions."
+date:   2017-04-03 06:16:01 -0600
+published: true
+categories: node packge publish
+tags: [devops, enterprise, summit, sessions, videos]
 ---
 
 # DevOps Enterprise Summit sessions list

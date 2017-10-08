@@ -13,9 +13,14 @@ You can use npm init to create the package.json. It will prompt you for values f
 
 https://docs.npmjs.com/getting-started/creating-node-modules
 
-## Publishing
-1. npm publish --registry http://localhost:8081/nexus/content/repositories/npm-internal/
+## Patterns
+1. compute as backend
+2. compute as glue
+3. command pattern
+4. Messageing pattern
+5. Priotity queue pattern
+6. Fan-out pattern
+7. pipes and filters pattern
 
-[Nexus publish](https://books.sonatype.com/nexus-book/reference/npm-deploying-packages.html)
 
 

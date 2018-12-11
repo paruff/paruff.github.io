@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phil Ruffs blog
+title:  about Ruff Thoughts
 comments: true
 ---
 

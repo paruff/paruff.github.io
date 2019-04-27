@@ -3,6 +3,7 @@ layout: post
 title: Starting serverless conversion effort for trend following
 summary: "links to info needed to support the packaging and publishing of node modules."
 date:   2017-04-04 06:16:01 -0600
+author: phil
 published: true
 categories: node packge publish
 tags: [node, packge, publish]

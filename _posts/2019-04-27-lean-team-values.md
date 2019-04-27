@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Lean Team Values"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: phil
+categories: [ lean, team, values ]
 image: assets/images/16.jpg
 ---
  *   Constant Communication

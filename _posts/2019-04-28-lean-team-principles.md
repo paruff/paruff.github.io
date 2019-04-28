@@ -3,7 +3,7 @@ layout: post
 title:  "Lean Team Principles"
 author: phil
 categories: [ lean, team, principles ]
-image: assets/images/10.jpg
+image: assets/images/16.jpg
 ---
 ## Principles
  *   Constant Feedback — XP: Constant Feedback / Lean: Learn & Improve, Seek Perspective / UCD: The Process is Iterative

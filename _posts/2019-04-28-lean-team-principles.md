@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Lean Team Values"
+title:  "Lean Team Principles"
 author: phil
-categories: [ lean, team, values ]
+categories: [ lean, team, principles ]
 image: assets/images/10.jpg
 ---
 ## Principles

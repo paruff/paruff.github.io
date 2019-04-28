@@ -25,6 +25,7 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
     
 # Archives
 jekyll-archives:

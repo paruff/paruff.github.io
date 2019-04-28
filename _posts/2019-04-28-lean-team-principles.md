@@ -6,7 +6,6 @@ summary: "Principle for a lean team from XP, Lean and UCD."
 date:   2019-04-28 08:54:01 -0600
 published: true
 categories: lean, team, principles
-tags: [lean, team, principles]
 image: assets/images/16.jpg
 ---
 ## Principles

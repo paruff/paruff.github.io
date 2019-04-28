@@ -6,6 +6,7 @@ date:   2017-04-04 06:16:01 -0600
 author: phil
 published: true
 categories: node packge publish
+image: https://photos.app.goo.gl/4ge3ULxvshkycGmMA
 tags: [node, packge, publish]
 ---
 # Packaging and Publishing node.js modules

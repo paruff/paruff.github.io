@@ -38,6 +38,6 @@ image: assets/images/1200px-Extreme_Programming.svg.png
 
 Reference:
 
-{% include youtubePlayer.html id=SIaVsG7m8n4 %}
+{% include youtubePlayer.html id="SIaVsG7m8n4" %}
 
 * https://m.youtube.com/watch?v=SIaVsG7m8n4

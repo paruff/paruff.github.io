@@ -4,7 +4,7 @@ title:  "Design thinking, Lean product development, agile(xp) and devops"
 author: phil
 summary: "overview of Deign thinking linked with lean product development supported with agile extreme programming and devops for hypothesis driven development."
 date:   2019-04-30 08:54:01 -0600
-published: false
+published: true
 categories: lean, team, practices
 image: assets/images/1200px-Extreme_Programming.svg.png
 ---
@@ -37,3 +37,7 @@ image: assets/images/1200px-Extreme_Programming.svg.png
   *  DevOps supporting Hypothesis driven development
 
 Reference:
+
+{% include youtubePlayer.html id=SIaVsG7m8n4 %}
+
+* https://m.youtube.com/watch?v=SIaVsG7m8n4

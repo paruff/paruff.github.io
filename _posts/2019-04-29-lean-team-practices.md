@@ -6,7 +6,7 @@ summary: "Principle for a lean team from XP, Lean and UCD."
 date:   2019-04-29 08:54:01 -0600
 published: true
 categories: lean, team, practices
-image: assets/images/16.jpg
+image: assets/images/1200px-Extreme_Programming.svg.png
 ---
 ## Practices
  * From XP: 

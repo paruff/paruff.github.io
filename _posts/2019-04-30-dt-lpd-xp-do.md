@@ -6,7 +6,7 @@ summary: "a devops pipeline assembly line video from Stelligent"
 date:   2019-04-30 08:54:01 -0600
 published: true
 categories: lean, team, practices
-image: assets/images/1200px-Extreme_Programming.svg.png
+image: assets/images/1way.png
 ---
 ## Pipeline
  

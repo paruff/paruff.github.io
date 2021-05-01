@@ -6,7 +6,7 @@ summary: "We have started a monthly cycle of intermittent fasting, 2 days fasts 
 date:   2021-05-01 08:54:01 -0600
 published: false
 categories: intermittent fasting, fasting, plant based diet
-image: https://photos.app.goo.gl/RfgJAPUpenYHfapM9
+image: assets/images/C9BE6A93-A19A-4DEB-91BD-AB496D5DB602.png
 ---
 #Title: Intermittent fasting, Nutritarian diet and 2 day fast are my plan for  return to and remain at a healthy weight
 By line: Phil Ruff 

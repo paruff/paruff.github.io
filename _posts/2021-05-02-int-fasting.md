@@ -4,7 +4,7 @@ title:  "Fasting, intermittent fasting and plant based dieting"
 author: phil
 summary: "We have started a monthly cycle of intermittent fasting, 2 days fasts all while eating primarily a plant based diet with recipes from Dr. Fuhrman, the weaknesses I have is my evening wine and snacking on peanut butter."
 date:   2021-05-01 08:54:01 -0600
-published: false
+published: true
 categories: intermittent fasting, fasting, plant based diet
 image: assets/images/C9BE6A93-A19A-4DEB-91BD-AB496D5DB602.png
 ---

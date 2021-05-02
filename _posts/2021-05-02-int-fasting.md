@@ -23,6 +23,10 @@ We are complementing this with some delicious plant based food from Dr. Fuhrman'
 
 ### my progress on the scale
 
+assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png
+
+![scale-graph](assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png){:class="img-responsive"}
+
 An ![weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")
 
 [bodyfat]:https://photos.app.goo.gl/RfgJAPUpenYHfapM9

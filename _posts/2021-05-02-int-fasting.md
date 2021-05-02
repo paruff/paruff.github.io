@@ -26,7 +26,10 @@ https://photos.app.goo.gl/KwLimfkXtZk7edpD9
 ### my progress on the scale
 
 An![weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")
+
 [weight percent body fat graph]:https://photos.app.goo.gl/RfgJAPUpenYHfapM9
+
+![scale-graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9){:class="img-responsive"}
 
 
 ## Learn more:

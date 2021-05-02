@@ -26,10 +26,11 @@ We are complementing this with some delicious plant based food from Dr. Fuhrman'
 assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png
 
 ### Asset:
-
-![scale-graph](assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png){:class="img-responsive"}
+An ![weight percent bodyfat](assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png "optional title")
 
 [bodyfat]:assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png
+
+![scale-graph](assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png){:class="img-responsive"}
 
 ### URL:
 An ![weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")

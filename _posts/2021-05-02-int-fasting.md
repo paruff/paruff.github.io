@@ -21,8 +21,6 @@ Intermittent fasting is as we are doing it is simply extending your daily fast ,
 We are complementing this with some delicious plant based food from Dr. Fuhrman's recipes. He recently added a meal plan to his members area to support intermittent fasting. We find the food takes time to prepare and is a lot! So we are working on how to right size the meals.
 
 
-https://photos.app.goo.gl/KwLimfkXtZk7edpD9
-
 ### my progress on the scale
 
 An ![weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")

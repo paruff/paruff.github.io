@@ -25,7 +25,7 @@ https://photos.app.goo.gl/KwLimfkXtZk7edpD9
 
 
 
-An [weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")
+An![weight percent body fat graph](https://photos.app.goo.gl/RfgJAPUpenYHfapM9 "optional title")
 
 
 ## Learn more:

@@ -26,7 +26,7 @@ We are complementing this with some delicious plant based food from Dr. Fuhrman'
 assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png
 
 ### Asset:
-An ![weight percent bodyfat]( {{ site.url }}assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png "optional title")
+An ![weight percent bodyfat]( {{ site.url }}/assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png "optional title")
 
 [bodyfat]:assets/images/6A303643-644C-44D2-87D4-B01F93440C46.png
 

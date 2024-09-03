@@ -1,0 +1,7 @@
+---
+lifespan: 
+finalAge: 
+culturalWorks: 
+culturalEra:
+---
+

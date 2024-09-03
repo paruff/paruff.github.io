@@ -1,0 +1,1 @@
+https://www.coursera.org/api/rest/v1/asset/download/pdf/st43TLVmEemddAqBQMk_og?pageStart=&pageEnd=

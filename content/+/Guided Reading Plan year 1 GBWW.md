@@ -5,6 +5,7 @@ created: 2024-09-01
 tags: 
 ---
 
+UP [[Guided reading plan]]
 
 **Year One Schedule**
 
@@ -16,7 +17,7 @@ Week 1 (January 1-6, 2013):
 Week 2 (January 7-13, 2013):   
 
 1. “[The Moral Obligation to Be Intelligent](http://home.uchicago.edu/%7Eahkissel/education/erskine.html "The Moral Obligation to Be Intelligent")” by John Erskine (_GGB_ Vol. 10, pp. 5-13)
-2. “[How Should One Read a Book?](http://ebooks.adelaide.edu.au/w/woolf/virginia/w91c2/chapter22.html "How Should One Read a Book?")” by Virginia Woolf (_GGB_ Vol. 5, pp. 5-14)
+2. “[How Should One Read a Book?](http://ebooks.adelaide.edu.au/w/woolf/virginia/w91c2/chapter22.html "How Should One Read a Book?")” by Virginia Woolf (_GGB_ Vol. 5, pp. 5-14) https://yalereview.org/article/virginia-woolf-essay-how-should-read-book
 3. “[Of the Study of History](http://www.ourcivilisation.com/smartboard/shop/humed/history.htm "Of the Study of History")” by David Hume (_GGB_ Vol. 7, pp. 89-92)
 4. “[The Two Drovers](http://www.walterscott.lib.ed.ac.uk/etexts/etexts/twodrovers_1751.htm "The Two Drovers")” by Sir Walter Scott (_GGB_ Vol. 2, pp. 182-205)
 5. “[The Three Hermits](http://www.online-literature.com/tolstoy/2896/ "The Three Hermits")” by Leo Tolstoy (_GGB_ Vol. 3, pp. 700-706)

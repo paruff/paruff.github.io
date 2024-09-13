@@ -1,7 +1,7 @@
 ---
-title: "Goals"
 tags:
 - goals
+title: "Goals"
 weight: 0
 ---
 # Goals

@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Home]]"
-related:
+related: 
 ---
 
 That sounds like a fantastic and diverse set of projects! Here are some Obsidian starter kits that could help you with your note-taking and ideation needs across your various projects:

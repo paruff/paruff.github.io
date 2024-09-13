@@ -1,7 +1,7 @@
 ---
-title: "index"
 tags:
 - home
+title: "index"
 weight: 0
 ---
 

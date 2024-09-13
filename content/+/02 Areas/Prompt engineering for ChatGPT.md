@@ -5,10 +5,10 @@ From Coursera course
 ## TOC
   
 # Contents 
-- [Persona Pattern](persona-pattern) 
- - [Question refinement pattern](question-refinement-pattern)
- -  [Cognitive verifier pattern](cognitive-verifier-pattern) 
- -  [Audience persona pattern](audience-persona-pattern) 
+- [Persona Pattern](Persona%20pattern.md) 
+ - [Question refinement pattern](Question%20Refinement%20pattern.md)
+ -  [Cognitive verifier pattern](Cognitive%20Verifier%20pattern.md) 
+ -  [Audience persona pattern](Audience%20Persona%20pattern.md) 
  -  [[#Flipped interaction pattern]] 
  -  [[#Few shot prompting pattern]]
 - [[#Template pattern]]
@@ -139,7 +139,5 @@ Prompt: Create examples of <Concept 1 and Concept 2> that are expressed in terms
 
 Prompt: Create examples of <Concept 1> where there are special circumstances or exceptions to the rule.
 
-
-### This is a test header.
 
 

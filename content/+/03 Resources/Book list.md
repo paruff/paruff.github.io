@@ -128,3 +128,6 @@ http://gutenberg.net.au/greatest-books-a.html
 
 ### reading guides
 https://westerntradition.wordpress.com/great-books-project/great-books-project-post-index/
+
+
+https://blog.oup.com/2013/06/eastern-reading-list-oxford-worlds-classics/

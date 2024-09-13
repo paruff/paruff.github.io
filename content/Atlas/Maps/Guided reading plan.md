@@ -1,5 +1,7 @@
 ---
 up: 
+in:
+  - "[[Maps]]"
 related: 
 created: 2024-09-03
 tags: 
@@ -12,3 +14,6 @@ tags:
   - [[Guided reading plan year 5 GBWW]]
   - [[Guided Reading Plan year 6 GBWW]]
   - 
+
+Techniques:
+ - [[Reading process]]

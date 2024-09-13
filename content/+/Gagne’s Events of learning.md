@@ -1,3 +1,12 @@
+---
+up: 
+related: 
+created: 2024-09-05
+tags:
+  - learning
+  - teaching
+---
+
 
 ### Gagnes events of learning
 https://www.simplimba.com/gagnes-9-events-theory/

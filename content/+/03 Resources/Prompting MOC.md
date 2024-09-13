@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Home]]"
-related:
+related: 
 ---
 ### Courses:
 [[Prompt engineering for ChatGPT]]

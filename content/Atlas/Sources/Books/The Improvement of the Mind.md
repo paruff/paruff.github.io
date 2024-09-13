@@ -21,3 +21,6 @@ rating:
 ---
 
 ![image|150](http://books.google.com/books/content?id=LMwAAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+https://fs.blog/isaac-watts-improvement-of-the-mind/
+

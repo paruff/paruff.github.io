@@ -8,7 +8,7 @@ related:
 created: 2023-10-17
 rank: 2
 mapState:
-  - 🟩
+  - "🟩"
 ---
 
 ## Ancient Prompts in a Modern Age
@@ -30,3 +30,6 @@ mapState:
 
 ## Text samples
 - [[Prompt Text, Ideaverse]]
+
+
+https://ar5iv.labs.arxiv.org/html/2302.11382

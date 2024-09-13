@@ -1,8 +1,10 @@
 ---
 up: 
-related: 
+related:
+  - "[[Books]]"
 created: 2024-09-01
-tags: 
+tags:
+  - classics
 ---
 
 

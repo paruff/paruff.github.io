@@ -1,3 +1,12 @@
+---
+up: 
+related: 
+created: 2024-09-05
+tags:
+  - mindfulness
+  - practice
+---
+
 
 STAGE ONE: ESTABLISHING A PRACTICE
 This Stage is about developing a consistent and diligent meditation practice. Being consistent means setting a clear daily schedule for when you’re going to meditate, and sticking to it except when there are circumstances beyond your control. Diligence means engaging wholeheartedly in the practice rather than spending your time on the cushion planning or daydreaming.

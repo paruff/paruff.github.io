@@ -2,7 +2,7 @@
 up:
   - "[[Home]]"
 related: 
-tags:
+tags: 
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 up: 
 related: 
+tags: 
 year: 
 encountered: 
-tags: 
 type:
 ---
 In the specialization : Futures Thinking

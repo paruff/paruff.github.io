@@ -2,7 +2,7 @@
 up: 
 related: 
 created: 2024-08-25
-tags:
+tags: 
 ---
 
 Yellowstone old faithful

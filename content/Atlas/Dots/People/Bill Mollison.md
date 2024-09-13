@@ -10,7 +10,7 @@ peopleType:
 peopleDomain: 
 peopleGroups: 
 lifespan: 
-finalAge: 
+finalAge: "88"
 culturalEra: 
 culturalWorks:
 ---

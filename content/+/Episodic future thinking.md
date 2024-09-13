@@ -2,7 +2,7 @@
 up: 
 related: 
 created: 2024-08-13
-tags:
+tags: 
 ---
 
 [Mental time travel is a great decision-making tool — this is how to use it |](https://ideas.ted.com/mental-time-travel-is-a-great-decision-making-tool-this-is-how-to-use-it/)

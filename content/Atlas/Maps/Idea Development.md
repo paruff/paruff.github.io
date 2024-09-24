@@ -11,7 +11,7 @@ related:
 created: 2023-10-15
 rank: 3.5
 mapState:
-  - 🟩
+  - "🟩"
 cssclasses:
   - wide-page
 ---
@@ -197,3 +197,6 @@ Daily note users, don't forget that you can tag ideas on the same line as the id
 > 
 > LIMIT 10
 > ```
+
+
+https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/

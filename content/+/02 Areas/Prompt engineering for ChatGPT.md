@@ -1,3 +1,10 @@
+---
+up: "[[Prompts MOC]]"
+related: 
+created: 2024-09-13
+tags: 
+---
+
 
 
 

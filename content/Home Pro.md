@@ -90,7 +90,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > 
 > > > [!aperture] [[Things]] | [[Concepts]] | [[People]] | [[Entities]]
 > > 
-> > > [!waves] [[Statements]] | [[Questions]] | [[Quotes]]
+> > > [!waves] [[Statements]] | [[Questions]] | [[Quotes]] | [[Prompts MOC]]
 > > 
 > > > [!armchair] [[Books]] | [[Movies]] | [[Series]]
 > >

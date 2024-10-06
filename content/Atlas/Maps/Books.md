@@ -16,6 +16,13 @@ cssclasses:
   - wide-page
 ---
 
+> [!NOTE]
+> > [!NOTE]
+
+> > [!NOTE] Title
+
+> Contents
+
 > [!video]- Click here to view the related video lessons
 > - [How to Use the Books Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513565)
 

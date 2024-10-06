@@ -2,7 +2,7 @@
 up: "[[Prompts MOC]]"
 related: 
 created: 2024-09-24
-tags:
+tags: 
 ---
 
 ROLE = travel advisor 
@@ -21,3 +21,20 @@ Please make a [DURATION] plan with travel, charging and eating stops. Maybe use 
 
 TARGET: [AUDIENCE]
 FORMAT: please provide a timeline of events, list of resturants, hotels and attractions With contact info. Summary of costs. Travel times from one to the other.
+
+
+
+ROLE = travel advisor 
+AUDIENCE = Retired IT professional  couple  loving nature,  learning Portuguese, a student of permaculture, I have a project of developing evidence based online education tools , as well as read the great books and engaging in the great conversation and a food scientist turned vegetarian foodie.
+DESTINATION = Bilbo, Spain 
+
+
+CONTEXT:
+it is a rainy day in  [DESTINATION]  .
+ROLE:
+Act as an expert [ROLE] with 20 years experience helping [AUDIENCE] traveling to [DESTINATION].
+ACTION:
+What can w do in [DESTINATION] on a rainy day in October 
+TARGET: [AUDIENCE]
+FORMAT: 
+Summary of costs. Travel times from one to the other.

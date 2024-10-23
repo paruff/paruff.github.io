@@ -42,6 +42,8 @@ rank: "4"
 - Mind map 
 - Recall questions
 - Practice questions
+
+[[Retrieval practice]] - practice makes perfect or permanent. 
 ## Resources:
 [[learning MOC]]
 [[Mind map]]

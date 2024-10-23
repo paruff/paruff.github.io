@@ -14,3 +14,6 @@ Foreign earned income tax
 https://www.gocurrycracker.com/never-pay-taxes-by-moving-abroad/
 December tax prep process
 https://www.gocurrycracker.com/7-minute-taxes/
+
+https://www.dinkytown.net/
+https://opensocialsecurity.com/

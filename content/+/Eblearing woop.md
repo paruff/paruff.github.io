@@ -13,3 +13,5 @@ tags:
 ## Your inner Obstacle: Other ideas and projects
 
 ## Your Plan: If "Other ideas and projects" then I will "Plan the discovery session theday before" during shutdown
+
+[[👨🏻‍🏫 EB eLearning Course (MOE)]]

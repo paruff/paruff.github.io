@@ -10,7 +10,7 @@ I have a few goals:
 
 [[Meditation]] , well I guess that is a practice to support mindfulness , which is in support of emotional health and [[enlightenment]]
 
-[[01 Projects/Learn Portuguese/Portuguese]] language at least to A2 level as that is required for citizenship in portugal. That is clearly an external goal.
+[[Portuguese]] language at least to A2 level as that is required for citizenship in portugal. That is clearly an external goal.
 
 A [[01 Projects/Edible Forest/food forest/Food forest MOC]], or is it grow our owne food. It also includes creating an habitat for the local wildlife. Seems it is complicated.Steward of 
 

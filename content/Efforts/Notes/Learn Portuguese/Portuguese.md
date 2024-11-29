@@ -1,7 +1,7 @@
 
 There are many resources for [[learning MOC]] Portuguese and many of them are Brazilian. I live in Portugal so am more focused on European Portuguese.
 
-I break up Portuguese into two focuses. CREF A1/A2/B1/B2 or the technical [[01 Projects/Learn Portuguese/CREF  Portuguese exams]] and the 
+I break up Portuguese into two focuses. CREF A1/A2/B1/B2 or the technical [[CREF  Portuguese exams]] and the 
 
 - [x] Create minimal pairs flashcards for Portugues
 

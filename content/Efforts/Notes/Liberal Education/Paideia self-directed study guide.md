@@ -1,3 +1,10 @@
+---
+up: 
+related: 
+created: 2024-11-09
+tags: 
+---
+
 Here’s a personalized plan to develop a *Self-Directed Paideia Study* as a retired IT professional in Portugal, emphasizing critical thinking, lifelong learning, and personal growth through the Paideia principles.
 
 ### 1. **Create a Personal Curriculum (The Great Books Approach)**

@@ -5,7 +5,7 @@ Projects:
 
 Projects, current
 - [[Portuguese MOC|Learn Portuguese]] 
--  [[01 Projects/Edible Forest/food forest/Food forest MOC|Food Forest]] Our food forest edible forest garden
+-  [[Food forest MOC|Food Forest]] Our food forest edible forest garden
 - [[EB LLLearning online|EB LLLearning online]] Evidence Base E-Learning process
 
 

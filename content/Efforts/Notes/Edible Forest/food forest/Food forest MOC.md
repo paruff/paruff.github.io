@@ -46,7 +46,7 @@ Herbs
 
 https://www.fs.usda.gov/nac/
 
-[[01 Projects/Edible Forest/food forest/Transplant]]
+[[Transplant]]
 
 ### Plants databases
 https://plants.sc.egov.usda.gov/home
@@ -77,7 +77,7 @@ Lavender-
 Parsnip- root, deep tap root
 
 
-[[01 Projects/Edible Forest/Hemp]] as a product?
+[[Hemp]] as a product?
 
 ### Succession
 https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/

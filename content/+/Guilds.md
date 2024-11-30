@@ -6,19 +6,19 @@ tags:
 ---
 
 ### Guilds
- - [[01 Projects/Edible Forest/food forest/guilds/Lemon tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Orange Tree Guild Guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Plum tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Olive tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Fig tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Walnut tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Apple tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Pear tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Quince tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Peach tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Apricot tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Cherry tree guild guide]]
- - [[01 Projects/Edible Forest/food forest/guilds/Grapefruit tree guild guide]]
+ - [[Lemon tree guild guide]]
+ - [[Orange Tree Guild Guide]]
+ - [[Plum tree guild guide]]
+ - [[Olive tree guild guide]]
+ - [[Fig tree guild guide]]
+ - [[Walnut tree guild guide]]
+ - [[Apple tree guild guide]]
+ - [[Pear tree guild guide]]
+ - [[Quince tree guild guide]]
+ - [[Peach tree guild guide]]
+ - [[Apricot tree guild guide]]
+ - [[Cherry tree guild guide]]
+ - [[Grapefruit tree guild guide]]
 
 
 

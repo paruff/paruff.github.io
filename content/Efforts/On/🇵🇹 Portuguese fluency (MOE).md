@@ -2,11 +2,11 @@
 up:
   - "[[Efforts]]"
 created: 2021-02-01
-rank: "4"
 tags:
   - map
+rank: "4"
 ---
-This note is a simple example of how you can consolidate all of your notes related to an effort into a single spot.
+
 
 ## Resources  
 -  [[Portuguese]]

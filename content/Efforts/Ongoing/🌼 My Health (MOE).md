@@ -25,7 +25,3 @@ Fuzzy areas like [[🌼 My Health (MOE)]] and [[💰 My Finance (MOE)]] are both
 	- [[Workouts Tracker]]
 	- [[Injury Tracker MOC]]
 	- [[Body Quirks Tracker]]
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Almost all content and links have been removed.

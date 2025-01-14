@@ -12,10 +12,9 @@ Start at this launchpad or:
 
 Maps:
  - [[Food forest MOC]]
- - [[learning MOC]]
- - [[People Map]]
- - [[Portuguese MOC]]
- - [[Prompting MOC]]
+ - [[👨🏻‍🏫 EB eLearning Course (MOE)]]
+ - [[🇵🇹 Portuguese fluency (MOE)]]
+ - [[📚Liberal Education fluency (MOE)]]
  - [[Sources Map]]
  - [[Travel MOC]]
  - [[The 5SP Process]]
@@ -23,6 +22,10 @@ Maps:
 Efforts:
  - [[👨🏻‍🏫 EB eLearning Course (MOE)]]
  - [[📚Prompt engineering advanced MOE]]
+
+FAN:
+[[Exchange rates USD to EUR]]
+[[Prompting MOC]]
 
 The old map of the garden/forest:
 [[Atlas/Notes/Ideas/01 Projects/Projects MOC]]

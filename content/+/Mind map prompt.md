@@ -2,7 +2,7 @@
 up: 
 related: 
 created: 2024-08-22
-tags:
+tags: 
 ---
 
 [SUBJECT] = How to Read a Book

@@ -5,7 +5,7 @@ created: 2024-08-22
 tags: 
 ---
 
-[SUBJECT] = How to Read a Book
+[SUBJECT] = AWS certified cloud practioner
 [ROLE] = learn experience design
 [AUDIENCE] = eight grader 
 

@@ -24,8 +24,8 @@ Efforts:
  - [[📚Prompt engineering advanced MOE]]
 
 FAN:
-[[Exchange rates USD to EUR]]
-[[Prompting MOC]]
+ - [[Exchange rates USD to EUR]]
+ - [[Prompting MOC]]
 
 The old map of the garden/forest:
 [[Atlas/Notes/Ideas/01 Projects/Projects MOC]]

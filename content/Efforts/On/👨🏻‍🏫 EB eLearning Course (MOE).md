@@ -7,41 +7,47 @@ rank: "4"
 ---
 
 
-### Course
- - mindmap
- - metaphor
- - motivation
- - learning objective
- - unit objectives
+## Course
+  - Mind map [[Mind map prompt]]
+  - Metaphor, visual [[Metaphor prompt]]metaphor]
 ### Lesson
 - learning outcome
-- Focus question
+- Question, focus [[Focus question prompt]]
+- Hook [[Hook prompt]]
+- Direct instruction video, script [[Script prompt]]
+	- - Foundational material (I do) 7-15 minutes
+- Recall questions, - formative assessment (We do)
+- Practice questions [[Recall questions prompt]]
 - Summative assessment
 
-- hook
-- Foundational material (I do) 7-15 minutes
-- Guided practice and retrieval practice - formative assessment (We do)
-
 - Closure
-- Reflective notes
-- 
-- metaphor
-- script
+- Reflective notes- 
 - [[retrieval questions]]
 - questions student might have after direct instruction
 
-## Course development process
-- The **situation** is that my START HERE series on Youtube was a flagship of success. 
-- The **objective** is to create a process for creating evidenced based elearning courses.
-- The **milestones** are to publish ≈6 videos of a good quality.
-- The **key results** are that they get a high view count, suggesting it's helping people.
+### Addressing learning challenges:
+- Motivation
+- procrastination 
+- foregetting
+ - Thinking we/I know
 
 ## Objectives
-- Direct instruction video
-- Metaphor 
-- Mind map 
-- Recall questions
+- Course
+	- Mind map 
+	- Metaphor, visual 
+- Lesson
+	- Question, focus
+	- Hook
+	- Direct instruction video, script
+	- Recall questions
 - Practice questions
+
+Addressing learning challenges:
+- Motivation
+- procrastination 
+- foregetting
+ - Thinking we/I know
+ - 
 
 [[Retrieval practice]] - practice makes perfect or permanent. 
 ## Resources:
@@ -65,3 +71,19 @@ Learn
 
 Motivation idea - 
 https://ideas.ted.com/mental-time-travel-is-a-great-decision-making-tool-this-is-how-to-use-it/
+
+Screen cast of ithoughts:
+Techsmith camtasia 
+
+Text to speech options:
+https://cloud.google.com/text-to-speech/docs/voices
+
+
+hen garage band for editing video sync up with audio
+
+https://time.ly/blog/best-platforms-for-selling-online-courses/
+
+
+Todo:
+
+https://playground.zyphra.com/audio

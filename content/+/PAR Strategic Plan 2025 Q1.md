@@ -35,7 +35,7 @@ tags:
 ### Annual Garden
  - Measure - 2 plus rows of monthly vegetables , iterate on new design for Feb
  and 2025
- - Image - Garden will have automated watering from rainwater harvesting
+ - Image - Garden will have automated watering from rainwater harvesting, orchard will have automated water from grey water harvesting
  - Behavior - walk through the garden in the AM or after shutdown to observer, weed and harvest
 ### Forest Garden
  - Measure - automated watering system implemented based on grey water and backed up by municipal water

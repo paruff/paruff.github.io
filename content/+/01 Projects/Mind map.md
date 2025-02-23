@@ -25,20 +25,20 @@ https://app.mindmup.com/
 A classic - 
 Freemind
 
-| Name                                        | Cost                    | Presentation      | Sharing           | Import             | Export     | Rating      | Images |
-| ------------------------------------------- | ----------------------- | ----------------- | ----------------- | ------------------ | ---------- | ----------- | ------ |
-| [Ayoa](https://app.ayoa.com/)               | $9/12                   | Reveal,           |                   | .imx               |            |             |        |
-| [Coggle](https://coggle.it/)                | $ 5/8                   | manual            |                   | .mm , text         | .mm,  text |             |        |
-| [Freeplane](https://docs.freeplane.org/)    | free                    | Presentation Mode |                   |                    |            |             |        |
-| [gitmind](https://.gitmind.com/)            | free                    |                   |                   |                    |            | 3.4         |        |
-| [iThoughts](https://www.toketaware.com/)    | 50                      | !                 |                   | all                |            | 5           |        |
-| [Mindmanager](https://www.mindmanager.com)  | 90/190 year             |                   |                   |                    | 4          |             |        |
-| [Mindmeister](https://www.mindmeister.com)  | 3 maps free 6/10/15 mon | slides, not very  | Link, edit, view, |                    | Limited    |             |        |
-| Mindmup                                     | 3 mon                   |                   |                   |                    |            |             |        |
-| [NovaMind](https://www.novamind.com/)       | 6 mon                   | ?                 |                   |                    |            | crashes :-( |        |
-| [WiseMapping](https://www.wisemapping.com/) | Free OS                 | ?                 | Public, view edit | mm, md , wmxl, svg |            |             |        |
-| [Xmind](xmind.works)                        | 5/8                     | Pitch Mode        |                   |                    | md, opml,  | 4.7         |        |
-|                                             |                         |                   |                   |                    |            |             |        |
+| Name                                        | Cost                    | Presentation      | Sharing               | Import                                               | Export                                                 | Rating      | Images |
+| ------------------------------------------- | ----------------------- | ----------------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------ | ----------- | ------ |
+| [Ayoa](https://app.ayoa.com/)               | $9/12                   | Reveal,           |                       | .imx, .md, .opml, .imx                               |                                                        |             |        |
+| [Coggle](https://coggle.it/)                | $ 5/8                   | manual            | unlimited public free | .mm , .mmap, text                                    | .mm, .vsdx,   text                                     |             |        |
+| [Freeplane](https://docs.freeplane.org/)    | free                    | Presentation Mode |                       |                                                      |                                                        |             |        |
+| [gitmind](https://.gitmind.com/)            | free                    |                   |                       |                                                      |                                                        | 3.4         |        |
+| [iThoughts](https://www.toketaware.com/)    | 50                      | !                 |                       | all, .mm, .mmap, .md, .mind, .txt, .opml, .cvs, .imx | https://www.toketaware.com/ithoughts-faq-compatibility | 5           |        |
+| [Mindmanager](https://www.mindmanager.com)  | 90/190 year             |                   |                       |                                                      | 4                                                      |             |        |
+| [Mindmeister](https://www.mindmeister.com)  | 3 maps free 6/10/15 mon | slides, not very  | Link, edit, view,     |                                                      | Limited                                                |             |        |
+| Mindmup                                     | 3 mon                   |                   |                       |                                                      |                                                        |             |        |
+| [NovaMind](https://www.novamind.com/)       | 6 mon                   | ?                 |                       |                                                      |                                                        | crashes :-( |        |
+| [WiseMapping](https://www.wisemapping.com/) | Free OS                 | ?                 | Public, view edit     | mm, md , wmxl, svg                                   |                                                        |             |        |
+| [Xmind](xmind.works)                        | 5/8                     | Pitch Mode        |                       |                                                      | md, opml,                                              | 4.7         |        |
+|                                             |                         |                   |                       |                                                      |                                                        |             |        |
 
 ### AI Prompt to generate a mind map
  [[03 Resources/Mind map ChatGTP prompt|Mind map ChatGTP prompt]]

@@ -48,3 +48,9 @@ Related books:
 
 You can also use a saved search to automatically compile these. 
 See the [[Communicate]] note for that example. 
+
+### A goal:
+I am a 59 year old ,dyslexic, retired IT professional with a goal of developing  critical thinking, creativity, interdisciplinary learning, personal development and contribute meaningfully to society.
+
+A prompt for meta craft:
+I have been listening to Iliad, the odyssey, some Shakespeare as well as all of the "Odyssey of the west" from the modern scholars as well as Foundations of Civilization I from The Teaching company, I am considering reading the Bible as I was a passive member of the Dutch reformed church in my youth and never read the Bible . I am also considering reading/listening to "The story of Civilization" by Will Durant to help with my understanding and connection with our western tradition . I moved to portugal a few years ago and am learning Portuguese, a goal is to be fluent to the A2 level in the next couple of years. I have been practicing mindfulness and meditation for a number of decades and now that I am retired I have stepped up my commitment and practice. I have also become a certified permaculture designer and have been working on our garden and orchard to grow and harvest organic fruits and vegetables, I intend to develop the garden and orchard to meet our and our friends needs for food over the next few years

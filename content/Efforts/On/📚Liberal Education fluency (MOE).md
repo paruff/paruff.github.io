@@ -10,6 +10,8 @@ rank: "4"
 
 [[GttGB graded study plan]]
 [[Paideia self-directed study guide]]
+[[A Renaissance of Learning-Customized Liberal Education Plan]]
+[[A Theological Journey-From Code to Creation]]
 
 
 My working definition of a liberal educations:

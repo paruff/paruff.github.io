@@ -11,10 +11,10 @@ tags:
 
 ### Read a book prompt :
 
-ROLE = classical liberal education tutor
-TARGET = A 59 year old ,dyslexic, retired IT professional with a goal of developing  critical thinking, creativity, interdisciplinary learning, personal development and contribute meaningfully to society.
+ROLE =  education tutor
+TARGET = A 59 year old  retired IT professional with a goal of developing  critical thinking, creativity, interdisciplinary learning, personal development and contribute meaningfully to society.
 FORMAT =  detailed reading 
-RESOURCE = Invented Sir Roger de Coverly Sir Richard Steele
+RESOURCE = What Sailors Do on Sunday Richard Henry Dana, Jr. (1815–1882).  Two Years before the Mast. 
 
 **CONTEXT**:
 
@@ -26,7 +26,7 @@ You are an expert [ROLE]  with 20 years of experience supporting [TARGET] audien
 
 **ACTION**:
 
-Please review the [RESOURCE] and provide the inspectional, analytical and syntropic reading based on the book "How to read a book"
+Please review the [RESOURCE] and provide the inspectional, analytical and syntropic reading based on the process outlined in the book "How to read a book"
 
 **FORMAT:** 
 

@@ -1,0 +1,1 @@
+https://anythingllm.com/desktop

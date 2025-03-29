@@ -56,3 +56,5 @@ rating:
 - **History:** Understanding the historical context of the early 19th century, including social norms and class distinctions, enriches the reading experience.
 - **Philosophy:** Examines moral and ethical dilemmas faced by the characters, inviting readers to reflect on their own values.
 - **Sociology:** Offers insights into the social structures and gender roles of the time, encouraging critical thinking about societal expectations.
+
+https://www.coursehero.com/lit/Pride-and-Prejudice/chapter-61-summary/

@@ -1,60 +1,53 @@
 ---
 up:
-  - "[[Home Pro Basic]]"
-in:
+  - "[[Home Pro]]"
+collection:
   - "[[Collections]]"
   - "[[Views]]"
   - "[[Maps]]"
 created: 2023-08-19
+tags:
+  - architect/renovate
 rank: 4.5
 mapState:
   - 🟩
 ---
+~ [[Home Pro]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Efforts Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513569)
+> [!mountain] [[Areas]] | [[Projects]] | [[Works]] 
 
-Keep your priorities in order. Quickly adjust your bandwidth as needed. 
+Keep your priorities in order. Quickly adjust your bandwidth as needed. Rerank often.
 
-> [!Box]+ ### 🔥 On
-> ``` dataview
-> TABLE WITHOUT ID
-> file.link as "",
->  rank as "Rank"
-> FROM "Efforts/On"
-> SORT rank desc
-> ```
+This view combines your top Areas, Projects, and Works—and sorts them by rank.
 
+KEY:  – Areas | ⚗️ Projects | 🎨 Works
 
-> [!Box]+ ### ♻️ Ongoing
-> ``` dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> rank as "Rank"
-> FROM "Efforts/Ongoing"
-> SORT rank desc
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(file.path, "Efforts/Areas"),
+		" –  " + file.link,
+	choice(contains(file.path, "Efforts/Projects/Active"),
+		"⚗️ " + file.link,
+	choice(contains(file.path, "Efforts/Projects/Simmering"),
+		"⚗️ " + file.link,
+	choice(contains(file.path, "Efforts/Projects/Sleeping"),
+		"⚗️ " + file.link,
+	choice(contains(file.path, "Efforts/Works"),
+		"🎨 " + file.link,
+	file.link))))) as "Top Efforts",
+	
+	rank as "Rank"
 
+FROM "Efforts/Projects" or "Efforts/Areas" or "Efforts/Works"
 
-> [!Box]+ ### 〰️ Simmering
-> Efforts can easily move from `on` to `simmering` in the background.
->
-> ``` dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> rank as "Rank"
-> FROM "Efforts/Simmering"
-> SORT rank desc
-> ```
+WHERE rank > 2
+
+SORT rank desc
+
+LIMIT 22
+```
 
 ---
 
-> [!faq]+ Learn more about Efforts
-> - [[The big differences between efforts and projects]]
-> - [[The Four Intensities of Efforts]]
-> - [[Why Efforts are Liberating]]
-> - [[How ideas and efforts play nicely together]]
->   
->   ![[robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[Home Pro Basic]] 
+Back to [[Home Pro]] 

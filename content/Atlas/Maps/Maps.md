@@ -1,163 +1,63 @@
 ---
-up:
-  - "[[Home Pro Basic]]"
-in:
-  - "[[Collections]]"
+up: "[[Atlas]]"
+collection:
   - "[[Maps]]"
-related:
-  - "[[Views]]"
+  - "[[Collections]]"
+related: 
 created: 2023-11-21
-rank: 5.5
+rank: 5
 mapState:
   - 🟩
-updates: Adding new ranks and state properties + updated queries to show them
 ---
+~ [[Atlas]] 
 
-> [!video]- Related video lessons
-> - [How to Use the Maps Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513557)
+> [!map] [[Collections]] | [[Views]] | [[Maps by Links]] | [[Maps by Type]] 
 
-This note collects all notes where the `in` property says `Maps`.
+Maps of content help you ***gather, develop, and navigate ideas***. As you make and customize your maps, you are making sense of some part of the world that matters to you. This note shows all the maps in the ideaverse where the `collection` property has `Maps`, sorted by rank.
 
-> [!planet]- # Atlas Maps
+```dataview
+TABLE WITHOUT ID 
+	choice(contains(collection,link("Maps")),
+		"🗺️ " + file.link,
+	file.link) as "Maps",
 
-> [!map]+ #### Maps that are "Collections"
-> "Collections" are maps whose main purpose is ***to collect and display notes that link to it*** using the `in` property.
-> 
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "Collections",
-> rank as Rank,
-> join(mapState) as State
-> 
-> WHERE
-> contains(in,[[Collections]]) and
-> !contains(file.name, "Template")
-> 
-> SORT rank desc, mapState desc, file.name asc
-> LIMIT 100
-> ```
+rank as "Rank",
 
-> [!map]- #### Map that are "Views"
-> "Views" are maps whose main purpose is ***to show auto-updating, dynamic results of custom searches.*** 
-> 
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "Map views",
-> rank as Rank,
-> join(mapState) as State
-> 
-> WHERE contains(in, link("Views")) and
-> !contains(file.name, "Template")
-> 
-> SORT rank desc, file.name asc
-> 
-> LIMIT 155
-> ```
+choice( contains(file.folder, "+"), "`" + file.folder + "`", file.folder ) as "Folder Path"
+
+WHERE contains(collection,link("Maps")) 
+
+SORT rank desc 
+
+LIMIT 133
+```
+
 
 ---
 
-> [!map]- ## Atlas maps by rank
-> All maps in the "Atlas" folder.
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> rank as Rank,
-> join(mapState) as State
-> 
-> FROM "Atlas/Maps"
-> 
-> SORT rank desc, file.name asc
-> 
-> LIMIT 333
-> ```
+These are my favorite sensemaking maps in my ideaverse. This view shows when the `collection` property has `Maps` but NOT `Collections` or `Views`. This means I've manually made the links—making it more meaningful to me. Additionally, the rank is above `3.5`
 
-> [!calendar]- ## Calendar maps
-> All maps in the "Calendar" folder.
-> 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "Maps",
-> rank as Rank,
-> join(mapState) as State
->  
-> FROM "Calendar"
-> WHERE contains(in,link("Maps")) and
->  !contains(file.name, "Template")
-> 
-> SORT file.link asc
-> 
-> LIMIT 55
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(collection,link("Maps")),
+		"🗺️ " + file.link,
+	file.link) as "Maps",
+	
+rank as Rank,
+join(mapState) as State,
+length(file.inlinks) as "Links"
 
-> [!training]- ## Effort maps
-> All maps in the "Efforts" folder.
-> 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "Maps",
-> rank as Rank
->  
-> FROM "Efforts"
-> 
-> WHERE contains(in,link("Maps"))
-> 
-> SORT rank desc, file.name asc
-> 
-> LIMIT 55
-> ```
+FROM "Atlas" or "Calendar"
+
+WHERE contains(collection,link("Maps")) and !contains(collection,link("Collections")) and
+!contains(collection,link("Views")) and
+	rank > 3.5
+
+SORT rank desc
+
+LIMIT 77
+```
 
 ---
 
-> [!map]- # All the maps by folder
-> All the maps in the ideaverse where the `in` property has `Maps`.
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> file.folder AS Folder,
-> rank as Rank,
-> join(mapState) as State
-> 
-> WHERE contains(in,link("Maps"))
-> 
-> SORT file.folder asc
-> 
-> LIMIT 333
-> ```
-
-> [!zap]+ # My favorite handmade maps
-> All the maps in the ideaverse where the `in` property has `Maps`—but not `Collections` or `Views`—and the rank is above `3.5`
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> rank as Rank,
-> join(mapState) as State,
-> join(in) as Collection
-> 
-> FROM "Atlas" or "Calendar"
-> 
-> WHERE contains(in,link("Maps")) and !contains(in,link("Collections")) and !contains(in,link("Views")) and
-> 	rank > 3.5
-> 
-> SORT rank desc
-> 
-> LIMIT 77
-> ```
-
-> [!zap]- # General list of my favorite maps
-> All the maps in the ideaverse where the `in` property has `Maps` and the rank is above `3.5`
-> ```dataview
-> TABLE WITHOUT ID
-> file.link as "",
-> rank as Rank,
-> join(mapState) as State,
-> join(in) as "Map Type"
-> 
-> FROM "Atlas" or "Calendar"
-> 
-> WHERE contains(in,link("Maps")) and
-> 	rank > 3.5
-> 
-> SORT rank desc, file.name asc
-> 
-> LIMIT 77
-> ```
+Back to [[Home Pro]] 

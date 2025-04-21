@@ -1,5 +1,5 @@
 ---
-in:
+collection:
   - "[[Collections]]"
   - "[[Maps]]"
 created: 2023-11-27
@@ -8,18 +8,17 @@ mapState:
   - 🟩
 updates: Updated query in template to properly show linked meetings
 ---
+~ [[Dots]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Meetings & Entities Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513568)
+This note collects all notes where the `collection` property says `Entities`.
 
-This note collects all notes where the `in` property says `Entities`.
-
-> [!industry]+ # Entities
-> ```dataview
-> TABLE WITHOUT ID
-> 	file.link as Note
-> WHERE
-> 	contains(in,this.file.link) and
-> 	!contains(file.name, "Template")
-> SORT rank desc, year asc
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(collection,link("Entities")), 
+		"🛗 " + file.link,file.link) as "Entities",
+	length(file.inlinks) as "Links"
+WHERE
+	contains(collection,link("Entities")) and
+	!contains(file.name, "Template")
+SORT rank desc, year asc
+```

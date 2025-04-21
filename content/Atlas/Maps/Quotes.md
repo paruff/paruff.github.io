@@ -1,42 +1,54 @@
 ---
 up:
-  - "[[Statements]]"
-in:
-  - "[[Collections]]"
+  - "[[Dots]]"
+collection:
   - "[[Maps]]"
+  - "[[Collections]]"
+related:
+  - "[[Questions]]"
 created: 2023-11-24
-rank: 2
+rank: 3.5
 mapState:
   - 🟩
 ---
+~ [[Dots]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Quotes Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513564)
+> [!shapes] [[Things]] | [[Statements]] | [[People]] | **[[Quotes]]** | [[Questions]] 
 
-This note collects all notes where their `in` property has `Quotes`.
+This note renders all notes where their `collection` property has `Quotes`, sorted by `rank`.
 
-> [!Keaton]+ # Quotes
-> ```dataview
-> TABLE WITHOUT ID
-> 	file.link as Quote,
-> 	join(list(by)) as By,
-> 	rank as Rank
-> WHERE
-> 	contains(in,this.file.link) and
-> 	!contains(file.name, "Template")
-> SORT rank desc, by asc
-> ```
+```dataview
+TABLE WITHOUT ID 
 
-If a quote isn't in its own dedicated note, you can instead prefix it with `quote::` to show in the results below:
+choice(contains(file.path, "Atlas/Dots/Quotes"), 
+"💬 " + file.link, file.link) as "Quotes", 
 
-> [!Keaton]+ # Inline Quotes
-> ```dataview
-> TABLE WITHOUT ID
-> 	join(quote, "
-> 	") as Quote,
-> 	file.link as From
-> WHERE
-> 	quote and
-> 	!contains(file.name, "Template")
-> SORT rank desc, by asc
-> ```
+join(list(by)) as By, 
+rank as Rank 
+
+WHERE contains(collection,this.file.link) and !contains(file.name, "Template") 
+
+SORT rank desc, by asc
+
+LIMIT 77
+```
+
+---
+
+# Inline Quotes
+
+Not all quotes are their own dedicated note, but if you type `quote::` at the beginning of a line, then the following view will render it.
+```dataview
+TABLE WITHOUT ID
+	file.link as Note,
+	join(quote, "
+	") as Quote
+WHERE
+	quote and
+	!contains(file.name, "Template")
+SORT rank desc, by asc
+```
+
+---
+
+Back to [[Dots]] 

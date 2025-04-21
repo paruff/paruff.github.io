@@ -1,11 +1,13 @@
 ---
-in:
+collection:
   - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[Mortimer J. Adler, Charles van Doren]]"
-created: "2024-08-26"
+created: 2024-08-26
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[]]"
 published: 1972
 bookType: 
@@ -17,7 +19,7 @@ year:
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
 ![image|150]()
@@ -78,3 +80,5 @@ Criticizing a book:
 	3. Significance - how important are the books arguments? What are their implications? Do they matter in the grand scheme of the subject and my life?
 
 https://youtube.com/watch?v=E4p8JkI9lV8&si=b5iCOWfEOft9hO71
+
+I often use this [[Read a book prompt]] to elp prepare myself for reading or listening to a book.

@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Home Pro Basic]]"
-in:
+collection:
   - "[[Maps]]"
 related:
   - "[[Collections]]"
@@ -10,21 +10,13 @@ rank: 2.5
 mapState:
   - 🟩
 ---
-
-> [!video]- Click here to view the related video lessons
-> - [How to Use Workflows](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/138338/lessons/515152)
+~ [[Home Pro]] 
 
 Each person is different, but these are some workflows for you to consider. 
 
-> [!planet]+ ## Atlas Workflows
-> 
-> > [!wandy] Workflow: [[ARC Ideation]]
-> 
+> [!globe] Workflow: [[ARC Framework]]
 
-> [!calendar]+ ## Calendar Workflows
-> 
-> > [!projector] Workflow: [[First Light, Last Light]]
+> [!calendar] Workflow: [[First Light, Last Light]]
 
-> [!training]+ ## Efforts Workflows
-> 
-> > [!scatterchart] Workflow: [[Effort Maestro]]
+> [!mountain] Workflow: [[Effort Maestro]]
+

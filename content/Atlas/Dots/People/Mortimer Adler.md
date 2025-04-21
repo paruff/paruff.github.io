@@ -1,8 +1,8 @@
 ---
-in:
-  - "[[People]]"
 related: 
 created: 2024-09-11
+in:
+  - "[[People]]"
 lifespan: 
 finalAge: 
 culturalWorks: 

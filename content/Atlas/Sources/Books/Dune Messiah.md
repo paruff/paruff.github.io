@@ -1,23 +1,32 @@
 ---
-in:
+collection:
   - "[[Books]]"
   - "[[Sources]]"
 related: 
 by:
   - "[[Frank Herbert]]"
-created: "2024-08-27"
-publisher: "[[Berkley]]"
-published: 1984
+  - "[[{{author}}]]"
+created: 2025-04-20
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
+publisher: "[[{{publisher}}]]"
+published:
+  "{ publishDate }": 
 bookType: 
-bookCategory: Fiction
+bookCategory:
+  "{ category }": 
 bookGroup: 
-pages: 292
-image: http://books.google.com/books/content?id=jCyDx4aWeyEC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+pages:
+  "{ totalPage }": 
+image:
+  "{ coverUrl }": 
 year: 
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
+![image|150]({{coverUrl}})
 ![image|150](http://books.google.com/books/content?id=jCyDx4aWeyEC&printsec=frontcover&img=1&zoom=1&source=gbs_api)

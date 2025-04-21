@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Home Pro Basic]]"
-in:
+collection:
   - "[[Views]]"
   - "[[Maps]]"
 related:
@@ -12,45 +12,29 @@ rank: 2
 mapState:
   - 🟩
 ---
-This **Communicate** note is a place to track your various *outputs*.
+~ [[ARC Framework]] 
 
-Below are simple examples using the tag `output` to track my, well, outputs. 
+> [!rainbow] ARC » [[Add]] | [[Relate]] | **[[Communicate]]** 
 
-This is enough to get you started. Over time, you should customize your views.
+If you are getting lost or wondering "what's the point" you need to fast-forward to the **communicate** step and immediately find a way to share your thoughts. If your motivation is lagging, it's usually because there is nothing at the end of ARC to pull the ideas forward. Is this something for work? Is this something you can share with family, friends, or the internet at large? At the very least, challenge yourself to email a sharable draft to yourself. 
 
-> [!Script]- ##### Newsletters
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "",
->  created as "Published"
->  
-> FROM #output/newsletter and -#x/readme
-> 
-> SORT created desc
->  ```
+To track your shared expressions and communications, go to [[Works]].
 
-> [!Watch]- ##### Videos on Deck
-> This filters for `#output/youtube◻️` with a rank above `3`. This may be empty for Ideaverse Pro, but it's not for Nick's personal ideaverse.
-> 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "",
->  rank as "Rank"
-> 
-> FROM #output/youtube◻️ 
-> 
-> WHERE rank > 3
-> 
-> SORT rank desc
-> ```
+---
 
-> [!Video]- ##### Premiered Youtube Videos
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "",
->  premiered as "Premiered"
->  
-> FROM #output/youtube☑️  and -#x/readme
-> 
-> SORT created desc
->  ```
+How to write with linked notes is covered in the course [Writing Original Works](https://www.linkingyourthinking.com/wow). 
+
+---
+
+Back to [[ARC Framework]] 
+
+
+
+
+
+
+
+
+
+
+

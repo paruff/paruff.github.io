@@ -1,5 +1,5 @@
 ---
-in:
+collection:
   - "[[Questions]]"
 by: 
 related: 

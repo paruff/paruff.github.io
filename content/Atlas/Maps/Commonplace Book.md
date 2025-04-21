@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Collections]]"
-in:
+collection:
   - "[[Maps]]"
 created: 2020-06-01
 rank: 1
@@ -11,7 +11,7 @@ mapState:
 
 Welcome to your "commonplace book" of interesting tidbits you've collected.
 
-> [[Collections]] | [[Commonplace Book]] | [[Bookshelf 📚]]
+> [[Collections]] | **[[Commonplace Book]]** | [[Bookshelf 📚]]
 
 NOTE: Since I removed the Quotes Pack from Ideaverse for Obsidian, most of the tags below won't populate results. 
 

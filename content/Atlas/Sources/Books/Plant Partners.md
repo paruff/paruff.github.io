@@ -1,9 +1,11 @@
 ---
 up: 
+collection:
+  - "[[Books]]"
 related: 
+tags: 
 year: 
 encountered: 
-tags: 
 type: "[[Book]]"
 ---
 by Jessica Walliser

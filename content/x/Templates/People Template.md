@@ -1,9 +1,9 @@
 ---
-in:
+collection:
   - "[[People]]"
 related: 
 created: "{{date}}"
-peopleType: 
-peopleDomain: 
-peopleGroups: 
+peopleType:
 ---
+~ [[People]] 
+

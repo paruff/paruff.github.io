@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Home Pro Basic]]"
-in:
+  - "[[People]]"
+collection:
   - "[[Maps]]"
 related: 
 created: 2016-06-01
@@ -9,25 +9,28 @@ rank: 2
 mapState:
   - 🟨
 ---
+~ [[People]] 
+
 Have a place to honor the importance of the people your life.  Once you feel comfortable, if you add notes for people—whether they are living or not—you will notice that it can help your understanding of them.
 
 Here's a cool view for you:
 
-> [!user]+ ## Prominent People 🌋
-> The hope is to see these prominent people in various ways to pull out insights. For example, by date allowed me to see that both Carl Sagan and Mihaly Csikszentmihalyi were born in 1934.
-> 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as People,
->  lifespan as "Years Lived"
-> 
-> FROM #people/p 
-> 
-> SORT lifespan asc
-> ```
-> 
-> ---
-> 
+The hope is to see these prominent people in various ways to pull out insights. For example, sorting by date allowed me to see that two of my intellectual heroes—Carl Sagan and Mihaly Csikszentmihalyi—were both born in 1934.
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "Prominent People 🌋",
+ lifespan as "Years Lived"
+
+FROM "Atlas/Dots/People"
+
+SORT lifespan asc
+
+LIMIT 77
+```
+
+---
+
 
 Here are the main things I do related to notes on people:
 

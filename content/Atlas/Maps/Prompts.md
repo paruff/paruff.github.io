@@ -1,16 +1,38 @@
 ---
 up:
-  - "[[Home Pro Basic]]"
-in:
+  - "[[Home Pro]]"
+collection:
   - "[[Maps]]"
-related:
-  - "[[Library]]"
-created: 2023-10-17
-rank: 2
+  - "[[Collections]]"
+related: 
+created: 2025-04-20
+rank: 1
 mapState:
-  - "🟩"
+  - 🟩
 ---
+~ [[Collections]] 
 
+This note collects all notes where the `collection` property says `Prompts`.
+
+```dataview
+TABLE WITHOUT ID
+	file.link as Note,
+	dateformat(created, "EEE, MMM dd, yyyy") as "Date Created"
+WHERE
+	contains(collection, this.file.link) and
+	!contains(file.name, "Template")
+SORT created desc
+LIMIT 333
+```
+~ [[Home Pro]] 
+
+Enlist AI as a thinking partner with these hand-crafted prompts. 
+
+![[robert-mccall-space-deep-space-ship-IDV-Pro.jpg|600]]
+
+Go to [[Prompts]] for all the current prompts provided.
+
+---
 ## Ancient Prompts in a Modern Age
 - To prompt your analytical and critical thinking
 	- [[Prompt - Thought Unpacking Machine]]
@@ -31,5 +53,6 @@ mapState:
 ## Text samples
 - [[Prompt Text, Ideaverse]]
 
+---
 
-https://ar5iv.labs.arxiv.org/html/2302.11382
+Back to [[Home Pro]] 

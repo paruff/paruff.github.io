@@ -1,25 +1,35 @@
 ---
+collection:
+  - "[[Books]]"
+  - "[[Sources]]"
+related:
+  - "[[Books]]"
+by:
+  - "[[Charles Dickens]]"
+  - "[[{{author}}]]"
+created: 2025-04-20
 in:
   - "[[Books]]"
   - "[[Sources]]"
-related: "[[Books]]"
-by:
-  - "[[Charles Dickens]]"
-created: 2025-03-07
-publisher: "[[]]"
-published: 1882
+publisher: "[[{{publisher}}]]"
+published:
+  "{ publishDate }": 
 bookType: 
-bookCategory: 
+bookCategory:
+  "{ category }": 
 bookGroup: 
-pages: 68
-image: http://books.google.com/books/content?id=ItM0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+pages:
+  "{ totalPage }": 
+image:
+  "{ coverUrl }": 
 year: 
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
+![image|150]({{coverUrl}})
 ![image|150](http://books.google.com/books/content?id=ItM0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 

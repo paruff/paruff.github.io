@@ -1,3 +1,3 @@
 
-[[03 Resources/Travel/Travel Checklist]]
+[[Travel Checklist - day before]]
 

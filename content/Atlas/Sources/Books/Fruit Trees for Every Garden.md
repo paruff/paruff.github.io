@@ -1,11 +1,14 @@
 ---
-in:
+up: 
+collection:
   - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[Orin Martin, Manjula Martin]]"
-created: "2024-08-26"
+created: 2025-04-20
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[Ten Speed Press]]"
 published: 2019-08-27
 bookType: 
@@ -17,8 +20,9 @@ year:
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
+
 
 ![image|150](http://books.google.com/books/content?id=dZFbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

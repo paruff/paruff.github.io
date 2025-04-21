@@ -1,11 +1,13 @@
 ---
-in:
+collection:
   - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[Arthur-Conan Sir Doyle]]"
-created: "2024-08-27"
+created: 2024-08-27
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[]]"
 published: 1892
 bookType: 
@@ -17,7 +19,8 @@ year:
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
 ![image|150](http://books.google.com/books/content?id=TKbwk-rEa-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+

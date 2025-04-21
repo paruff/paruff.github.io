@@ -1,30 +1,32 @@
 ---
+collection:
+  - "[[Movies]]"
+related: 
+created: 2024-08-27
 in:
   - "[[Movies]]"
   - "[[Sources]]"
-related: 
-created: "2024-08-27"
-director: 
+director:
   - "[[Irvin Kershner]]"
-actors: 
+actors:
   - "[[Mark Hamill]]"
   - "[[Harrison Ford]]"
   - "[[Carrie Fisher]]"
 writer: Leigh Brackett, Lawrence Kasdan, George Lucas
 showType: movie
-showGenre: 
+showGenre:
   - "[[Action]]"
   - "[[Adventure]]"
-  - "[[Fantasy]]" 
+  - "[[Fantasy]]"
 showGroup: 
-runtime: "124 min"
+runtime: 124 min
 imdbRating: "8.7"
 plot: After the Rebel Alliance are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.
-image: "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+image: https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
 year: 1980
 yearXP: 
 yearXPL: 
 showStatus: 
-rating:
+rating: 
 ---
 ![image](https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)

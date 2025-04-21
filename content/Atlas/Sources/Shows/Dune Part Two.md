@@ -1,9 +1,9 @@
 ---
-in:
+collection:
   - "[[Movies]]"
   - "[[Sources]]"
-related: 
-created: "2024-08-27"
+related:
+created: "2025-04-21"
 director: 
   - "[[Denis Villeneuve]]"
 actors: 
@@ -15,16 +15,16 @@ showType: movie
 showGenre: 
   - "[[Action]]"
   - "[[Adventure]]"
-  - "[[Drama]]" 
-showGroup: 
+  - "[[Drama]]"
+showGroup:
 runtime: "166 min"
 imdbRating: "8.5"
-plot: Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.
+plot: Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...
 image: "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg"
 year: 2024
-yearXP: 
-yearXPL: 
-showStatus: 
+yearXP:
+yearXPL:
+showStatus:
 rating:
 ---
 ![image](https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg)

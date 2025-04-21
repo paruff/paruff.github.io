@@ -1,11 +1,11 @@
 ---
-in:
-  - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[C.X. Cruz]]"
 created: "2024-08-26"
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[C.X. Cruz]]"
 published: 
 bookType: 

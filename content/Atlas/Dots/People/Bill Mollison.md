@@ -1,10 +1,10 @@
 ---
 up:
   - "[[People Map]]"
-in:
-  - "[[People]]"
 related: 
 created: 2024-08-26
+in:
+  - "[[People]]"
 type: People
 peopleType: 
 peopleDomain: 

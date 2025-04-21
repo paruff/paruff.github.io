@@ -1,49 +1,32 @@
 ---
-in:
-  - "[[Collections]]"
+up:
+  - "[[Records]]"
+collection:
   - "[[Maps]]"
+  - "[[Collections]]"
+related: 
 created: 2023-11-21
 rank: 1.5
 mapState:
   - 🟩
 ---
+~ [[Records]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Meetings & Entities Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513568)
+> [!boxes]  [[Events]] | [[Ideas]] | **[[Meetings]]** | [[Nice Things]] 
 
-This note collects all notes where the `in` property says `Meeting`.
+This note collects all notes where the `collection` property says `Meeting`.
 
-> [!calendar]+ # Meetings
-> ```dataview
-> TABLE WITHOUT ID
-> 	file.link as Note,
-> 	join(list(meetingGroups)) as Group,
-> 	one-liner as One-liner
-> WHERE
-> 	contains(in,link("Meetings")) and
-> 	!contains(file.name, "Template")
-> SORT file.name desc
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(file.path, "Calendar/Records/Meetings"), 
+		"☎️ " + file.link,file.link) as "Meetings",
+	one-liner as One-liner
+WHERE
+	contains(collection,link("Meetings")) and
+	!contains(file.name, "Template")
+SORT file.name desc
+```
 
 ---
 
-> [!calendar] # Inline Meetings `meeting::`
-> This works well if you work within your daily note.
-> ```dataview  
-> TABLE WITHOUT ID
->   file.link as Note,
->   meeting as Meeting
-> 
-> FROM 
->   "Calendar"  
-> 
-> WHERE 
->   meeting  
-> 
-> SORT 
->   rows.file.day desc  
-> ```
-> 
-> 
-
-
+Back to [[Records]] 

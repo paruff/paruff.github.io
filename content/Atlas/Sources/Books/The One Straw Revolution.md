@@ -1,3 +1,7 @@
+---
+collection:
+  - "[[Books]]"
+---
 Source
 
 -   **Title:**  The One-Straw Revolution

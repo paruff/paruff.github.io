@@ -1,9 +1,10 @@
 ---
-in:
+up: 
+collection:
   - "[[Meetings]]"
 related: 
 created: "{{date}}"
-meetingGroups: 
 one-liner:
 ---
- 
+~ [[Meetings]] 
+

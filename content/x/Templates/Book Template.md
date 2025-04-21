@@ -1,22 +1,22 @@
 ---
-in:
+collection:
   - "[[Books]]"
   - "[[Sources]]"
-related: 
+related:
 by:
   - "[[{{author}}]]"
 publisher: "[[{{publisher}}]]"
 published: {{publishDate}}
 created: "{{DATE:YYYY-MM-DD}}"
-bookType: 
+bookType:
 bookCategory: {{category}}
-bookGroup: 
+bookGroup:
 pages: {{totalPage}}
 image: {{coverUrl}}
-year: 
-yearXP: 
-yearXPL: 
-bookStatus: 
+year:
+yearXP:
+yearXPL:
+bookStatus:
 rating:
 ---
 

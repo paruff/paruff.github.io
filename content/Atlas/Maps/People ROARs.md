@@ -1,7 +1,7 @@
 ---
 up:
   - "[[People]]"
-in:
+collection:
   - "[[Views]]"
   - "[[Maps]]"
 related: 
@@ -12,14 +12,13 @@ mapState:
 cssclasses:
   - wide-page
 ---
-ROAR stands for "Reach-Outs And Replies".
+~ [[People]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the People Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513560) 
+ROAR stands for "Reach-Outs And Replies".
 
 > [!multi-column]
 > 
-> > [!zap]+ ## Reach-outs
+> > [!zap]+ Reach-outs
 > > ```dataview
 > > TABLE WITHOUT ID
 > > 	file.link as "Name",
@@ -29,12 +28,12 @@ ROAR stands for "Reach-Outs And Replies".
 > > WHERE
 > > 	ROARrank and
 > > 	contains(ROAR,"reach-out") and
-> > 	contains(in, [[People]]) and
+> > 	contains(collection, [[People]]) and
 > > 	!contains(file.name, "Template")
 > > SORT ROARrank desc
 > > ```
 > 
-> > [!messages]+ ## Replies
+> > [!messages]+ Replies
 > > ```dataview
 > > TABLE WITHOUT ID
 > > 	file.link as "Name",
@@ -44,13 +43,13 @@ ROAR stands for "Reach-Outs And Replies".
 > > WHERE
 > > 	ROARrank and
 > > 	contains(ROAR,"reply") and
-> > 	contains(in, [[People]]) and
+> > 	contains(collection, [[People]]) and
 > > 	!contains(file.name, "Template")
 > > SORT ROARrank desc
 > > ```
 > 
 
-> [!watch]+ ## Waiting
+> [!watch]+ Waiting
 > ```dataview
 > TABLE WITHOUT ID
 > 	file.link as "Name",
@@ -60,14 +59,14 @@ ROAR stands for "Reach-Outs And Replies".
 > WHERE
 > 	ROARrank and
 > 	contains(ROAR,"waiting") and
-> 	contains(in, [[People]]) and
+> 	contains(collection, [[People]]) and
 > 	!contains(file.name, "Template")
 > SORT ROARrank desc
 > ```
 
 ---
 
-> [!Layers]- ### Backburner
+> [!Layers]- Backburner
 > ```dataview
 > TABLE WITHOUT ID
 > 	file.link as "Name",
@@ -76,7 +75,7 @@ ROAR stands for "Reach-Outs And Replies".
 > 	ROARrank as RRank
 > WHERE 
 > 	contains(ROAR,"backburner") and
-> 	contains(in, [[People]]) and
+> 	contains(collection, [[People]]) and
 > 	!contains(file.name, "Template")
 > SORT ROARrank desc
 > ```

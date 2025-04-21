@@ -1,13 +1,13 @@
 ---
 up: 
-in:
-  - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[{{author}}]]"
 created: 2024-08-26
 tags: 
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 year: 
 encountered: 
 type: "[[Book]]"

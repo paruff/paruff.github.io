@@ -1,7 +1,9 @@
 ---
-in:
-  - "[[Collections]]"
+up:
+  - "[[Dots]]"
+collection:
   - "[[Maps]]"
+  - "[[Views]]"
 related:
   - "[[Statements]]"
 down:
@@ -11,21 +13,36 @@ rank: 3
 mapState:
   - 🟩
 ---
+~ [[Dots]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Things Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513558)
+> [!shapes] **[[Things]]** | [[Statements]] | [[People]] | [[Quotes]] | [[Questions]] 
 
-This note collects all notes in the folder `Things`.
+This note collects all notes in the folder `Things`, sorted by last created.
+```dataview
+TABLE WITHOUT ID
+	choice(contains(file.path, "Atlas/Dots/Things"), 
+		"🧩 " + file.link, file.link) as "Things",
+	length(file.inlinks) as "Links"
+ 
+FROM "Atlas/Dots/Things"
 
-> [!waves]+ ## Things
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "Things",
->  (date(today) - file.cday).day as "Days alive"
->  
-> FROM "Atlas/Dots/Things"
-> 
-> SORT file.ctime desc
-> ```
+SORT file.ctime desc
 
-These things act as a cabinet of curiosities, each with a story.
+LIMIT 77
+```
+
+These "things" act as a cabinet of curiosities, each with a story. Consider adding a column for `rank` or even for `tags`.
+
+```
+ rank as Rank, 
+ join(file.etags) as Tags
+```
+
+---
+
+Back to [[Dots]] 
+
+---
+
+
+Shh, don't tell anyone, but here's a cool view that shows both Things and Statements in a single dual-column view: [[With our dots combined...]] 

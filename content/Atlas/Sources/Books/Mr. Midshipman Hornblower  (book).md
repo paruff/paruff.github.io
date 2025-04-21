@@ -1,11 +1,13 @@
 ---
 up:
   - "[[Sources Map]]"
-related: []
-year: 1949
-encountered: 2000
+collection:
+  - "[[Books]]"
+related: 
 tags:
   - source/book
+year: 1949
+encountered: 2000
 type: "[[Book]]"
 ---
 

@@ -1,9 +1,11 @@
 ---
 up: 
+collection:
+  - "[[Books]]"
 related: 
+tags: 
 year: 2021
 encountered: 
-tags: 
 type: "[[Book]]"
 ---
 

@@ -1,11 +1,13 @@
 ---
-in:
+collection:
   - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[Susan Wise Bauer]]"
-created: "2024-09-26"
+created: 2024-09-26
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[W. W. Norton & Company]]"
 published: 2015-11-16
 bookType: 
@@ -17,7 +19,7 @@ year:
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
 ![image|150](http://books.google.com/books/content?id=YqqaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

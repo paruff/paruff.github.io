@@ -2,25 +2,25 @@ This is a backup because the formatting of [[Series Template (QuickAdd)]] seems 
 
 ```
 ---
-in:
-- "{{VALUE:typeLink}}"
-- "[[Sources]]"
-related: 
+collection:
+  - "{{VALUE:typeLink}}"
+  - "[[Sources]]"
+related:
 actors: {{VALUE:actorLinks}}
 writer: {{VALUE:Writer}}
 created: "{{DATE:YYYY-MM-DD}}"
 showType: series
 showGenre: {{VALUE:genreLinks}}
-showGroup: 
+showGroup:
 runtime: "{{VALUE:Runtime}}"
 imdbRating: "{{VALUE:imdbRating}}"
 plot: {{VALUE:Plot}}
 image: "{{VALUE:Poster}}"
 seasons: "{{VALUE:totalSeasons}}"
 years: {{VALUE:Year}}
-yearXP: 
-yearXPL: 
-showStatus: 
+yearXP:
+yearXPL:
+showStatus:
 rating:
 ---
 ![image]({{VALUE:Poster}})

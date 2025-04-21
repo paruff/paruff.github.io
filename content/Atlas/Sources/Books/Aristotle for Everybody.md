@@ -1,23 +1,36 @@
 ---
-in:
+collection:
   - "[[Books]]"
   - "[[Sources]]"
 related: 
 by:
   - "[[Mortimer J. Adler]]"
-created: "2024-10-08"
-publisher: "[[Simon and Schuster]]"
-published: 1997-06-01
+  - "[[{{author}}]]"
+created: 2025-04-20
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
+publisher: "[[{{publisher}}]]"
+published:
+  "{ publishDate }": 
 bookType: 
-bookCategory: Philosophy
+bookCategory:
+  "{ category }": 
 bookGroup: 
-pages: 230
-image: http://books.google.com/books/content?id=Rp3nOTJqL9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+pages:
+  "{ totalPage }": 
+image:
+  "{ coverUrl }": 
 year: 
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
 ![image|150](http://books.google.com/books/content?id=Rp3nOTJqL9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+
+I have listened to this before I had a idea of how much  Aristotle was up to. I think again.
+
+[[Mortimer Adler]] 

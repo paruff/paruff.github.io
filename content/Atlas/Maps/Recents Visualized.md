@@ -1,13 +1,13 @@
 ---
 up:
   - "[[Home Pro Basic]]"
-in:
+collection:
   - "[[Maps]]"
   - "[[Views]]"
 related:
-  - "[[Recents]]"
+  - "[[Recently Modified]]"
 created: 2023-11-14
-rank: 4
+rank: 2.5
 mapState:
   - 🟩
 ---
@@ -22,4 +22,3 @@ sort: desc           # optional: desc | asc
 sortby: mtime        # optional: mtime | ctime | name
 fontsize: 6pt        # optional: 6pt | NUMBERpt | NUMBERpx
 ~~~~
-

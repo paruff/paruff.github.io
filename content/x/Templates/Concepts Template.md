@@ -1,6 +1,6 @@
 ---
 up: 
-in:
+collection:
   - "[[Concepts]]"
 related: 
 created: "{{date}}"

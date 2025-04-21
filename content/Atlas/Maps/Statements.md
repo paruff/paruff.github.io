@@ -1,7 +1,9 @@
 ---
-in:
-  - "[[Collections]]"
+up:
+  - "[[Dots]]"
+collection:
   - "[[Maps]]"
+  - "[[Views]]"
 related:
   - "[[Things]]"
 down:
@@ -12,22 +14,33 @@ rank: 3.5
 mapState:
   - 🟩
 ---
+~ [[Dots]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Statements Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513561)
+> [!shapes] [[Things]] | **[[Statements]]** | [[People]] | [[Quotes]] | [[Questions]] 
 
-This note collects all notes in the folder `Statements`.
+This note collects all notes in the folder `Statements`, sorted most recently created.
 
-> [!Mic]+ ## Statements
-> 
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "Statements",
->  (date(today) - file.cday).day as "Days alive"
->  
-> FROM "Atlas/Dots/Statements"
-> 
-> SORT file.ctime desc
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(file.path, "Atlas/Dots/Statements"), 
+		"📣 " + file.link, file.link) as "Statements",
+	length(file.inlinks) as "Links"
+		
+FROM "Atlas/Dots/Statements"
+
+SORT file.ctime desc, file.link asc
+
+LIMIT 133
+```
 
 This is a coffeehouse of conversation—lean forward and bump elbows.
+
+---
+
+Back to [[Dots]] 
+
+
+---
+
+
+Shh, don't tell anyone, but here's a cool view that shows both Things and Statements in a single dual-column view: [[With our dots combined...]] 

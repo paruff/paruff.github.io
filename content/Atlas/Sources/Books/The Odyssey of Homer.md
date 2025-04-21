@@ -1,11 +1,14 @@
 ---
-in:
+collection:
   - "[[Books]]"
-  - "[[Sources]]"
-related: "[[Books]]"
+related:
+  - "[[Books]]"
 by:
   - "[[Homer]]"
 created: 2025-03-07
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[]]"
 published: 1878
 bookType: 
@@ -17,7 +20,7 @@ year:
 yearXP: 
 yearXPL: 
 bookStatus: 
-rating:
+rating: 
 ---
 
 ![image|150](http://books.google.com/books/content?id=0qVFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

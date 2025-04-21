@@ -1,8 +1,8 @@
 ---
-in:
-  - "[[Meetings]]"
 related: 
 created: 2024-09-05
+in:
+  - "[[Meetings]]"
 meetingGroups: 
 one-liner: Start conversation about Comanche restoration
 ---

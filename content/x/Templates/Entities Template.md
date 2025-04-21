@@ -1,5 +1,5 @@
 ---
-in:
+collection:
   - "[[Entities]]"
 related: 
 created: "{{date}}"

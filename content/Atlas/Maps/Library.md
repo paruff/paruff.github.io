@@ -1,7 +1,6 @@
 ---
-up:
-  - "[[Home Pro Basic]]"
-in:
+up: []
+collection:
   - "[[Maps]]"
 related: 
 created: 2020-01-01
@@ -10,6 +9,7 @@ mapState:
   - 🟨
 updates: Take text out of callouts for easier editing
 ---
+~ [[Maps]] 
 
 Navigate your library of maps with a classification system made specifically for PKM. 
 
@@ -34,9 +34,9 @@ Navigate your library of maps with a classification system made specifically for
 
 > [!NOTE]+ ### 000 - Knowledge Management
 
-The [[Meta Map]] shows the best practices of knowledge management. I use the [[Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
+The [[PKM Map]] shows the best practices of knowledge management. I use the [[Ideaverse Pro Hangar]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
 
-- [[Relate]] | [[Logs (Example)]] |  [[I want to...]]
+- [[Relate]] | [[Logs]] |  [[I want to...]]
 - [[All the Maps]] | [[Commonplace Book]] |  [[Knowledge and memory MOC]]
 
 > [!Milestone]+ ### 100 - Personal Management
@@ -44,22 +44,22 @@ The [[Meta Map]] shows the best practices of knowledge management. I use the [[I
 The [[Thinking Map]] can galvanize my attention; the [[Concepts Map]] can flavor it; and the [[Habits Map]] speaks about how to direct it. Hidden within in the [[Cabin]]. Go to my [[Life Map]] to brush up on [[My Virtues (starter)|My Virtues]] and more.
 
 - [[Posture MOC]] | [[Hormesis MOC]] | [[Breathing Exercises MOC]] | Flowcreation MOC
-- People MOC | Family MOC | [[Prominent People (kit)]]
+- People MOC | Family MOC | [[People Map]] 
 - Efforts MOC | [[Life Command ⌘]] | Plans and Reviews
 - Finances MOC | Health MOC
 
 > [!Puzzle]+ ### 200 - Philosophy, Psychology ; Spirituality, Religion
 
-Is there no limit to this section? I use [[Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC]], [[Confucianism MOC]], [[Religion MOC]], [[Taoism MOC]], and whatever else comes up.
+Is there no limit to this section? I use [[Philosophy MOC]] as the big note and then point to things like: [[Stoicism MOC]], [[Confucianism MOC]], [[Religion MOC]], [[Taoism MOC]], and whatever else comes up.
 
-[[Psychology MOC (kit)]] is similar but different enough to have its own space.
+[[Psychology MOC]] is similar but different enough to have its own space.
 
 > [!User]+ ### 300 - Social Sciences
 
 *The study of human society and of individual relationships in and to society.*
 While this a very important section, I have found it's a bit more intimate, as strange as that sounds, so I'm hesitant to share too much here. The best place to start is the [[People Map]]. along with.
 
-See also: [[People Map#Prominent People 🌋|Prominent People 🌋]] | Politics | Society | Law | Relationships
+See also: [[People Map]] | Politics | Society | Law | Relationships
 
 > [!Keaton]+ ### 400 - Communications, Language, & Linguistics
 
@@ -69,7 +69,7 @@ A fun section of the library, the 400s contains the underrated and oft-maligned 
 
 > A sharp break from the previous section, the 500s explore the natural world and universe in glorious notes like [[Cosmology MOC]] and [[Math MOC]]. 
 > 
-> See also: Chemistry | Geology | Plants | Animals | [[Systems MOC (kit)]]
+> See also: Chemistry | Geology | Plants | Animals | [[Systems MOC]]
 
 > [!Sailboat]+ ### 600 - Applied Sciences
 
@@ -78,13 +78,14 @@ A natural progression from the previous section, this is where we take the the f
 See also: Agriculture | Technology | Medical | [[AI MOC]] | Programming | [[Collective Intelligence MOC]] | [[Genetics MOC]] | 
 
 > [!Play]+ ### 700 - Art & Recreation
-> Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
-> 
-> - Art MOC | [[Design MOC]] | Architecture | Painting | 
-> - Film & TV | [[Movies]] 
-> - Sports | [[Football MOC]] 
-> - Music | [[Jazz MOC]] | [[Vocals MOC]] 
-> - [[Cooking MOC]] | Leisure 
+
+Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
+
+- Art MOC | [[Design MOC]] | Architecture | Painting | 
+- Film & TV | [[Movies]] 
+- Sports | [[Football MOC]] 
+- Music | [[Jazz MOC]] | [[Vocals MOC]] 
+- [[Cooking MOC]] | Leisure 
 
 > [!Venetian]+ ### 800 - Literature
 
@@ -105,4 +106,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to [[Home Pro Basic]] 
+Back to [[Maps]] 

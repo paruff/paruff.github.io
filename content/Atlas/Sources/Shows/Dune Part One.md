@@ -1,9 +1,9 @@
 ---
-in:
+collection:
   - "[[Movies]]"
   - "[[Sources]]"
-related: 
-created: "2024-08-27"
+related:
+created: "2025-04-20"
 director: 
   - "[[Denis Villeneuve]]"
 actors: 
@@ -15,16 +15,24 @@ showType: movie
 showGenre: 
   - "[[Action]]"
   - "[[Adventure]]"
-  - "[[Drama]]" 
-showGroup: 
+  - "[[Drama]]"
+showGroup:
 runtime: "155 min"
 imdbRating: "8.0"
-plot: A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.
-image: "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+plot: Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.
+image: "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg"
 year: 2021
-yearXP: 
-yearXPL: 
-showStatus: 
+yearXP:
+yearXPL:
+showStatus:
 rating:
 ---
-![image](https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg)
+![image](https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg)
+
+since first reading Dune in the closing days of my high school experience I have been a Dune fan. I remember an early pivotal scence and then I was just about finished with the book the next day. I had to find the next one[[Dune Messiah]] and have been a fan ever since.
+
+[[Atlas/Sources/Books/Dune|Dune]]
+
+This is the first half of the book and the second is well done also.
+
+I continue to have hard cover copies on my book shelf and have a very fond place esp for [[God Emperoror of Dune]]

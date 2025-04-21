@@ -1,5 +1,7 @@
 ---
 up: 
+collection:
+  - "[[Books]]"
 related: 
 tags: 
 year: 

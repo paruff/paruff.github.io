@@ -1,11 +1,13 @@
 ---
 up: 
+collection:
+  - "[[Books]]"
 related: 
-year: 2014
-encountered: 
 tags:
   - learning
   - study
+year: 2014
+encountered: 
 type: "[[Book]]"
 ---
 Heard about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repetition

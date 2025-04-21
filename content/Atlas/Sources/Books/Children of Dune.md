@@ -1,23 +1,26 @@
 ---
-in:
+collection:
   - "[[Books]]"
   - "[[Sources]]"
-related: 
+related:
 by:
   - "[[Frank Herbert]]"
-created: "2024-08-27"
+created: "2025-04-21"
 publisher: "[[Ace Books]]"
 published: 1975
-bookType: 
+bookType:
 bookCategory: 
-bookGroup: 
+bookGroup:
 pages: 408
 image: 
-year: 
-yearXP: 
-yearXPL: 
-bookStatus: 
+year:
+yearXP:
+yearXPL:
+bookStatus:
 rating:
 ---
 
 ![image|150]()
+
+Series: Dune
+Author : [[Frank Herbert]]

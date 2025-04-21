@@ -1,60 +1,39 @@
 ---
 up:
-  - "[[Statements]]"
-in:
-  - "[[Collections]]"
+  - "[[Dots]]"
+collection:
   - "[[Maps]]"
+  - "[[Views]]"
+related:
+  - "[[Quotes]]"
 created: 2023-11-26
 rank: 2
 mapState:
   - 🟩
 ---
+~ [[Dots]] 
 
-> [!video]- Click here to view the related video lessons
-> - [How to Use the Questions Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513563)
+> [!shapes] [[Things]] | [[Statements]] | [[People]] | [[Quotes]] | **[[Questions]]** 
 
- This note collects all notes where the `in` property says `Questions`.
+This note collects all notes in the folder `Questions`, sorted most recently created. 
 
-> [!Question]+ ## Questions
-> ```dataview
-> TABLE WITHOUT ID
-> 	file.link as Questions,
-> 	(date(today) - file.cday).day as "Days wondered"
-> WHERE
-> 	contains(in,this.file.link) and
-> 	!contains(file.name, "Template")
-> SORT "days wondered" asc, year asc
-> ```
+```dataview
+TABLE WITHOUT ID
+	choice(contains(file.path, "Atlas/Dots/Questions"),
+		"❓ " + file.link,
+	file.link) as "Questions",
+ 
+ (date(today) - file.mday).day as "Last modified"
 
+FROM "Atlas/Dots/Questions"
+
+SORT file.mtime desc
+```
 
 ---
 
+For questions you want to resolve, go to the garden-related note: [[Question]].
 
-> [!Question]- #### Questions with `#note/question`
-> Ultimately, get this down to zero.
-> 
-> ``` dataview
-> TABLE WITHOUT ID
->  file.link as "Questions across the ideaverse",
->  (date(today) - file.cday).day as "Days officially wondering"
-> 
-> FROM #note/question❔ and -#on/readme 
-> 
-> SORT file.cday asc
-> ```
+---
 
-
-> [!question]- #### Questions based on folders
-> ```dataview
-> TABLE WITHOUT ID
->  file.link as "Questions",
->  (date(today) - file.cday).day as "Days alive"
->  
-> FROM "Atlas/x/Questions"
-> 
-> SORT file.ctime desc
-> ```
-
-
-
-
+Back to [[Dots]].

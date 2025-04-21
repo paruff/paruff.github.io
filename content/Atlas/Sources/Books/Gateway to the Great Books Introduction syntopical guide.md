@@ -1,11 +1,11 @@
 ---
-in:
-  - "[[Books]]"
-  - "[[Sources]]"
 related: 
 by:
   - "[[Robert Maynard Hutchins, Mortimer Jerome Adler]]"
 created: "2024-09-03"
+in:
+  - "[[Books]]"
+  - "[[Sources]]"
 publisher: "[[]]"
 published: 1963
 bookType: 

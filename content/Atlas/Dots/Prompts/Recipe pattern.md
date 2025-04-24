@@ -18,3 +18,9 @@ tags:
 - (Optional) Identify any unnecessary steps
 
 - Example: - I would like to purchase a house. I know that I need to perform steps make an offer and close on the house. Provide a complete sequence of steps for me. Fill in any missing steps.
+
+
+Sources:
+https://www.coursera.org/learn/prompt-engineering
+https://arxiv.org/pdf/2302.11382
+[[Dr. Jules White]]

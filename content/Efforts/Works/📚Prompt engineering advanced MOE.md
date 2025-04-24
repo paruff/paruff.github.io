@@ -1,6 +1,8 @@
 ---
 up:
   - "[[Efforts]]"
+collection:
+  - "[[Works]]"
 related: 
 created: 2024-08-08
 rank: "3"

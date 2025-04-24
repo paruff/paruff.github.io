@@ -1,3 +1,7 @@
+---
+tags:
+  - garden/plant
+---
 Thank you for sharing those details about your Home Assistant setup. This gives me a good picture of your current environment and the areas we need to focus on. Let's build a comprehensive CI/CD implementation plan tailored to your specific situation.
 
 # Professional Home Assistant CI/CD Pipeline Implementation Guide

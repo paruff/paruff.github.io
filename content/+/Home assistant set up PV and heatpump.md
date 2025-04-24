@@ -3,6 +3,7 @@ up:
 related: 
 created: 2025-04-21
 tags:
+  - garden/plant
 ---
 
 

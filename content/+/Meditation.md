@@ -21,7 +21,7 @@ A goal of mine is to use the stages and steps aka guidance from TMI within the U
 
 ![[Assets/Unified Mindfulness.pdf]]
 
-I intend to use [[03 Resources/Learning/deliberate practice]] to focus and develop my mindfulness and meditation skills. 
+I intend to use [[deliberate practice]] to focus and develop my mindfulness and meditation skills. 
 
 [[Unifed Mindfulness]]
 

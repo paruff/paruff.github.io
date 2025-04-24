@@ -16,7 +16,7 @@ banner_y: 0.479
 - Products/boards
 	- [[Portuguese MOC|Portuguese MOC]]
 	- [[EB learning prompt|EB learning prompt]]
-	- [[02 Areas/Galope/Galope Board|Galope Board]]
+	- [[Galope Board|Galope Board]]
 - Process
 	- [[habits/Habits MOC|Habits MOC]]
 	- [[Unifed Mindfulness|Unifed Mindfulness]]
@@ -25,16 +25,16 @@ banner_y: 0.479
 	 - [[habits/Meditation tracker|Meditation tracker]]
 	 - [[habits/Portuguese tracker|Portuguese tracker]]
 - Planning
-	- [[01 Projects/Planning/Daily Progress]]
-	- [[01 Projects/Planning/Weekly board]]
-	- [[02 Areas/Galope/Galope Board|Galope Board]]
+	- [[Daily Progress]]
+	- [[Weekly board]]
+	- [[Galope Board|Galope Board]]
 	- [[02 Areas/Mindfulness board]]
-	- [[01 Projects/Planning/Learning Progress]]
+	- [[Learning Progress]]
 	- [[02 Areas/POD biz process/POD MOC|POD MOC]]
 	- [[EB learning prompt|EB learning prompt]]
 	- [[03 Resources/BYPP/Monthly values and vision|Monthly values and vision]]
-	- [[01 Projects/Planning/Values based organizing]]
-	- [[01 Projects/Planning/Retirement values]]
+	- [[Values based organizing]]
+	- [[Retirement values]]
 
 ## Vault Info
  - Recent updates

@@ -1,6 +1,8 @@
 ---
 up:
   - "[[Efforts]]"
+collection:
+  - "[[Areas]]"
 created: 2021-02-01
 tags:
   - map
@@ -40,7 +42,7 @@ Reading program:
  - [[Guided reading plan year 4]]
  - [[Guided reading plan year 5 GBWW]]
  - [[Guided Reading Plan year 6 GBWW]]
- - [[Guided reading plan]]
+ 
 Video programs:
 - [[foundations of Western civilazation]]
 - [[Eastern civilization]]

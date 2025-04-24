@@ -1,8 +1,8 @@
 ---
 up: 
+related:
 tags:
   - "note/develop🍃"
-related:
 ---
 
 

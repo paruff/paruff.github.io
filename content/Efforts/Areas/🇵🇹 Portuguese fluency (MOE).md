@@ -1,6 +1,8 @@
 ---
 up:
   - "[[Efforts]]"
+collection:
+  - "[[Areas]]"
 created: 2021-02-01
 tags:
   - map

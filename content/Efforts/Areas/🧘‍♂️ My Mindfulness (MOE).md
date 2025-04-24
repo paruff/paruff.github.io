@@ -1,7 +1,9 @@
 ---
 up:
   - "[[Home]]"
-related: []
+collection:
+  - "[[Areas]]"
+related: 
 created: 2010-01-01
 tags:
   - map

@@ -24,7 +24,7 @@ I am a [TARGET] . I am studying classical liberal education and will be reading 
 
 **ROLE**:
 
-You are an expert [ROLE]  with 20 years of experience supporting [TARGET] audience. 
+You are an impartial expert [ROLE]  with 20 years of experience supporting [TARGET] audience. 
 
 **ACTION**:
 

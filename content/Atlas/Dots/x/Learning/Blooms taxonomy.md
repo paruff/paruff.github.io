@@ -22,7 +22,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9727608/
 
 Blooms taxonomy 
 https://custom-writing.org/blog/wp-content/uploads/2020/12/table-779x1024.png
-### [[03 Resources/Learning/Blooms taxonomy]]
+### [[Blooms taxonomy]]
 https://youtube.com/watch?v=q7lY-FytO3U&si=mGocRruK83LyIyAj
 
 6. Create

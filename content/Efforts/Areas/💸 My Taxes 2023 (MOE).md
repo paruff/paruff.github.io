@@ -1,6 +1,8 @@
 ---
 up:
   - "[[Efforts]]"
+collection:
+  - "[[Areas]]"
 related:
   - "[[💰 My Finance (MOE)]]"
 created: 2024-08-06

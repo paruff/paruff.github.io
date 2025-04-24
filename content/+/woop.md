@@ -2,7 +2,8 @@
 up: 
 related: 
 created: 2024-08-29
-tags: 
+tags:
+  - garden/plant
 ---
 
 ### Practice

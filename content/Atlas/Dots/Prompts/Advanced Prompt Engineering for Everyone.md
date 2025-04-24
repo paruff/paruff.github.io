@@ -5,7 +5,7 @@ tags:
   - Prompt
 year: 
 encountered: 
-type: "[[Course]]"
+type: "[[Prompt engineering for ChatGPT Course]]"
 ---
 
 ## Week two

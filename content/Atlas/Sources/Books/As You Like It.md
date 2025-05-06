@@ -95,3 +95,5 @@ rating:
 
 ### **Final Note**  
 *As You Like It* blends humor, wisdom, and timeless questions about identity—ideal for a retiree exploring new freedoms. Its mix of satire and sincerity offers both entertainment and thoughtful parallels to post-career life.  
+
+[As you like it](https://youtu.be/Z_GgEBG7UJ4?si=WVUo6bJYN6cJ1fFA)

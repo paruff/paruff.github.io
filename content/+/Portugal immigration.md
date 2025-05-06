@@ -21,3 +21,5 @@ https://www2.gov.pt/servicos/trocar-carta-de-conducao-estrangeira-por-portuguesa
 For driving licences issued by **countries with a bilateral agreement with Portugal** or which are **not parties to international road traffic conventions**, you must also provide:
 
 - a statement by the issuing authority or a diplomatic or consular authority certifying the authenticity of the driving licence, the date of issue, validity, categories of vehicles covered and that you have passed the driving test
+
+https://www.acp.pt/servicos/carta-de-conducao/licenca-internacional-conducao

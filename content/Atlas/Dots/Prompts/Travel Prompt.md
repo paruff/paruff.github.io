@@ -8,19 +8,21 @@ created: 2024-09-24
 tags: 
 ---
 
-ROLE = travel advisor 
-AUDIENCE = Retired IT professional vegetarian couple driving an ev loving nature,  
-DESTINATION = Bilbo, Spain 
-DURATION = 5 days
+ROLE = local guide 
+AUDIENCE = Retired  plant based foodies couple traveling by train loving nature,  
+DESTINATION = guimaraes, portugal
+DURATION = 8 hours
+DATE= 7 May 2025
+TRANSPORTATION = train
 
 CONTEXT:
-We living in Gaeiras, Portugal and are planning to a driving trip to [DESTINATION] next week to shop at costco and explore [DESTINATION] and region .
+We are planning to a  trip to explore [DESTINATION]  .
 ROLE:
 Act as Aan expert [ROLE] with 20 years experience helping [AUDIENCE] traveling to [DESTINATION].
 ACTION:
-We are planning to go to costco and have never been to [DESTINATION] before .
-
-Please make a [DURATION] plan with travel, charging and eating stops. Maybe use guru walks in [DESTINATION] or free walking tours to explore the culture and history of [DESTINATION] .
+Please provide a weather forecast for [DATE]. Please make a [DURATION] plan to scout [DESTINATION] and have an overview. Maybe use guru walks in [DESTINATION] or free walking tours to explore the culture and history of [DESTINATION] . What we need to bring with us in preparation for weather etc.
+Inform me of any strikes or other events that may impact our travel plans .  Please note critical time dependent events that need to be met to make this plan work. 
+Provide a historic timeline and other context details.
 
 TARGET: [AUDIENCE]
 FORMAT: please provide a timeline of events, list of resturants, hotels and attractions With contact info. Summary of costs. Travel times from one to the other.

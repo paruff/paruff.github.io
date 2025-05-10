@@ -4,7 +4,7 @@ up:
 
 
  - [[02 Areas/NDR/NCDESP|ESP]] sync with god
- -  [[02 Areas/Fawkes/Fawkes MOC|Fawkes]]
+ -  [[Fawkes MOC|Fawkes]]
  - [[Galope Board|Galope Board]]
  - [[02 Areas/Real Estate investment process/Real estate process|Real estate process]]
  -  [[Solar PV MOC|Solar PV System]]

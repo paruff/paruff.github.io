@@ -65,3 +65,4 @@ Week 5-8: **Shorter Recovery Periods** (closer to Norwegian 4x4!)
 This schedule blends **strength, endurance, outdoor adventures, and climbing** while keeping everything fun and joint-friendly. As your knee feels stronger, we can ramp up the intensity and add more Norwegian 4x4 elements.
 
 Let me know if you’d like adjustments or a deeper breakdown of any exercise! 🚀
+

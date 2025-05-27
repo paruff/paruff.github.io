@@ -2,6 +2,10 @@
 
 [[DevOps Metrics Consulting & Platform Promotion Strategy]]
 
+ - [[DORA Metrics Consulting Client Acquisition Strategy]]
+ - [[linkedin marketing campaign]] 1 
+ - [[long form ]]
+
 
 IDE 
 https://github.com/eclipse-che/che

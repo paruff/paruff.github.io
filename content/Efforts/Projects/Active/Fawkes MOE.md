@@ -1,12 +1,21 @@
-[[02 Areas/Fawkes/Fawkes Board|Fawkes Board]]
-
-[[DevOps Metrics Consulting & Platform Promotion Strategy]]
-
+---
+up: 
+collection:
+  - "[[Projects]]"
+related: 
+created: 2025-05-30
+rank:
+---
+[[Advisory + Product Strategy]]
  - [[DORA Metrics Consulting Client Acquisition Strategy]]
- - [[linkedin marketing campaign]] 1 
- - [[long form ]]
+ - Marketing 
+
+	 - [[linkedin marketing campaign]] 1 
+	 - [[Metric Content long  posts]]
+	 - [[DORA Metrics & Developer Productivity Thought Leadership Program]]
 
 
+Tools:
 IDE 
 https://github.com/eclipse-che/che
 
@@ -27,3 +36,6 @@ Act as an expert google sheets and apps developer with 25 years experience
 Create all the artifacts needed to implement a dora dashboard in google sheets with automated collection of data from github, jira, Jenkins and Prometheus via google apps.
 
 This is for an audiance of technical consultant that is presenting DORA metrics to clients and needs way to demonstrate this.
+
+https://platformengineering.org/platform-tooling
+https://cnoe-io.github.io/

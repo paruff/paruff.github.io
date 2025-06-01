@@ -9,10 +9,11 @@ tags:
   - map
 rank: "4"
 ---
-This is for areas of physical health, wellness, training, and exercise. 
 
 
 [[ULTIMATE PERMACULTURE FOOD INDEPENDENCE PLAN]]
+[[Comprehensive Permaculture Orchard Design]] 
+[[Year-Round Planting Calendar for Six Market Garden Beds in Gaeiras]]
 
 TO DOs:
 

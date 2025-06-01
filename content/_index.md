@@ -22,14 +22,10 @@ Maps:
 Efforts:
  - [[👨🏻‍🏫 EB eLearning Course (MOE)]]
  - [[📚Prompt engineering advanced MOE]]
+ - [[Food Independenct MOE]]
 
 FAN:
  - [[Exchange rates USD to EUR]]
  - [[Prompting MOC]]
 
-The old map of the garden/forest:
-[[Atlas/Notes/Ideas/01 Projects/Projects MOC]]
-[[Atlas/Notes/Ideas/02/Areas/Areas MOC]]
-[[Atlas/Notes/Ideas/03 Resources/Resources MOC]]
-
-I used to use  [PARA](https://fortelabs.com/blog/para/) well and still do to some degree and now use ACE frmo [linking your thinking](https://www.linkingyourthinking.com/) as a whay to organized might focus and thoughts
+I use ACE frmo [linking your thinking](https://www.linkingyourthinking.com/) as a whay to organized might focus and thoughts

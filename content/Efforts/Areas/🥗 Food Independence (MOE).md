@@ -11,16 +11,17 @@ rank: "4"
 ---
 
 
-[[ULTIMATE PERMACULTURE FOOD INDEPENDENCE PLAN]]
-[[Comprehensive Permaculture Orchard Design]] 
-[[Year-Round Planting Calendar for Six Market Garden Beds in Gaeiras]]
+ - [[ULTIMATE PERMACULTURE FOOD INDEPENDENCE PLAN]]
+ - [[Comprehensive Permaculture Orchard Design]] 
+ - [[Year-Round Planting Calendar for Six Market Garden Beds in Gaeiras]]
 
-TO DOs:
 
- - **[[Guiding Principles & Philosophy]]** – A short statement outlining your vision for food independence. What does it mean to you? Why is it important?
+
+ - **[[Guiding Principles & Philosophy]]** – A short statement outlining  vision for food independence. 
     
 - **[[Resources & References]]** – Links to books, articles, videos, or courses on permaculture, self-sufficiency, soil health, food preservation, and sustainable practices.
-    
+
+TO DOs:
 - **Skills & Knowledge Hub** – A list of skills you want to develop (composting, grafting, seed-saving, fermentation, etc.), along with notes on your progress.
     
 - **Seasonal Planning** – A calendar or timeline for planting, harvesting, and maintenance tasks for both the garden and orchard.

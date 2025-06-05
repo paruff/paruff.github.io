@@ -10,11 +10,11 @@ rank: "4"
 ---
 
 
-[[GttGB graded study plan]]
-[[Paideia self-directed study guide]]
-[[A Renaissance of Learning-Customized Liberal Education Plan]]
-[[A Theological Journey-From Code to Creation]]
-[[Critical Thinking Mastery Study Plan]]
+ - [[GttGB graded study plan]]
+ - [[Paideia self-directed study guide]]
+ - [[A Renaissance of Learning-Customized Liberal Education Plan]]
+ - [[A Theological Journey-From Code to Creation]]
+ - [[Critical Thinking Mastery Study Plan]]
 
 My working definition of a liberal educations:
 - Foundation - trivium
@@ -68,7 +68,26 @@ I am a 59 year old ,dyslexic, retired IT professional with a goal of developing 
 A prompt for meta craft:
 I have been listening to Iliad, the odyssey, some Shakespeare as well as all of the "Odyssey of the west" from the modern scholars as well as Foundations of Civilization I from The Teaching company, I am considering reading the Bible as I was a passive member of the Dutch reformed church in my youth and never read the Bible . I am also considering reading/listening to "The story of Civilization" by Will Durant to help with my understanding and connection with our western tradition . I moved to portugal a few years ago and am learning Portuguese, a goal is to be fluent to the A2 level in the next couple of years. I have been practicing mindfulness and meditation for a number of decades and now that I am retired I have stepped up my commitment and practice. I have also become a certified permaculture designer and have been working on our garden and orchard to grow and harvest organic fruits and vegetables, I intend to develop the garden and orchard to meet our and our friends needs for food over the next few years
 
-https://skillscouter.com/online-critical-thinking-courses/
+
+
+https://teachers.institute/education-nature-purposes/liberal-education-human-mind-essence/
+
+### Intellectual Breadth
+
+[[Intellectual Breadth mastery path]]
+### Critical Thinking and Analytical Skills
+	(critical thinking courses)[https://skillscouter.com/online-critical-thinking-courses/]
 https://argumentful.com/16-best-free-online-critical-thinking-courses/
 
-https://www.coursera.org/courses?query=critical%20thinking
+[https://www.coursera.org/courses?query=critical%20thinking](https://skillscouter.com/online-critical-thinking-courses/%0Ahttps://argumentful.com/16-best-free-online-critical-thinking-courses/%0A%0Ahttps://www.coursera.org/courses?query=critical%20thinking)
+### Creativity and Imagination
+### Personal Development and Ethics
+
+Prompt ideas:
+I want a learning path for critical thinking to get me to a validated mastery level.
+
+I want a learning path toward a validated level of mastery of  Intellectual Breadth
+
+I want an evidence based effective  learning path toward a validated level of mastery of  Intellectual Breadth, critical thinking and analysis, personal development and ethics and creativity and imagination 
+
+[[comprehensive mastery  learning path]]

@@ -13,10 +13,10 @@ tags:
 
 ### Read a book prompt :
 
-ROLE =  education tutor
-TARGET = A 59 year old  retired IT professional .
-FORMAT =  detailed summary
-RESOURCE = As you like it by William Shakespeare 
+ -  ROLE =  education tutor
+ - TARGET = A 59 year old  retired IT professional .
+ - FORMAT =  detailed summary
+ - RESOURCE = As you like it by William Shakespeare 
 
 CONTEXT:
 

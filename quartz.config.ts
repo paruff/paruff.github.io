@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-VD7MCBNBC4' 
     },
     locale: "en-US",
-    baseUrl: "paruff.github.io",
+    baseUrl: "https://paruff.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

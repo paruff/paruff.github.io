@@ -1,7 +1,7 @@
 ---
 tags:
 - home
-title: "index"
+title: "🌱 Digital Garden"
 weight: 0
 ---
 
@@ -18,8 +18,7 @@ Ideas grow here — cultivated through reflection, connection, and iteration.
 - 🧠 **Thinking Hubs (Atlas):** [[Atlas]]
 - 🌿 **Refined Ideas (Garden):** [[Garden]]
 - 📚 **Curated Resources (Collections):** [[Collections]]
-- 📆 **Daily Thought Logs:** [[Daily Notes]]
-- 🏷️ **Topics by Tag:** [[Tags]]
+- 🏷️ **Topics by Tag:** [[Tags]] [All Tags](/tags/)
 - 🧵 **Changelog / Updates:** [[Changelog]]
 
 ---
@@ -40,7 +39,7 @@ Efforts:
 FAN:
  - [[Exchange rates USD to EUR]]
  - [[Prompting MOC]]
- 
+
 ----
 
 ## 🔍 How to Navigate
@@ -49,3 +48,6 @@ FAN:
 - Use the 🔎 search (top-right) to find terms, topics, or tags.
 - Follow internal links (`[[like this]]`) to go deeper.
 
+---
+
+📌 [About](/about) • [Tags](/tags) • [Start Here](/start-here)

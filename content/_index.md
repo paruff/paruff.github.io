@@ -33,8 +33,8 @@ Maps:
 
 Efforts:
  - [[Fawkes MOE]]
- - [[📚Liberal Education Fluency (MOE)]]
- - [[Food Independenct (MOE)]]
+ - [[📚Liberal Education fluency (MOE)]]
+ - [[Food Independence (MOE)]]
 
 FAN:
  - [[Exchange rates USD to EUR]]

@@ -7,6 +7,29 @@ Your launchpad and home base. That's here. That's **home**.
 
 > [!home] **[[Home]]** | [[Home Pro|Pro]] | [[Home Pro Basic|Basic]] | [[Ideaverse Pro Hangar|Hangar ⤵️]] 
  
-This is *your* home note. No one can make it for you. 
 
-But there is no rush. When you're ready, come back here, delete these words, add some links, and make this note your own.
+Start at this launchpad or:
+
+- search <-
+- Backlinks ->
+- Graph View ->
+
+Maps:
+- [[👨🏻‍🏫 EB eLearning Course (MOE)]]
+- [[Home Pro]]
+- [[Home Pro Basic]]
+- [[🇵🇹 Portuguese fluency (MOE)]]
+- [[Sources Map]]
+- [[Travel MOC]]
+
+Efforts:
+- [[Fawkes MOE]]
+- [[📚Liberal Education Fluency (MOE)]]
+- [[Food Independenct (MOE)]]
+  
+FAN:
+- [[Exchange rates USD to EUR]]
+- [[Prompting MOC]]
+  
+
+I use ACE from [linking your thinking](https://www.linkingyourthinking.com/) as a way to organize notes in obsidian

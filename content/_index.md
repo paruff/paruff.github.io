@@ -17,15 +17,14 @@ Maps:
  - [[📚Liberal Education fluency (MOE)]]
  - [[Sources Map]]
  - [[Travel MOC]]
- - [[The 5SP Process]]
 
 Efforts:
- - [[👨🏻‍🏫 EB eLearning Course (MOE)]]
- - [[📚Prompt engineering advanced MOE]]
+ - [[Fawkes MOE]]
+ - [[📚Liberal Education Fluency (MOE)]]
  - [[Food Independenct MOE]]
 
 FAN:
  - [[Exchange rates USD to EUR]]
  - [[Prompting MOC]]
 
-I use ACE frmo [linking your thinking](https://www.linkingyourthinking.com/) as a whay to organized might focus and thoughts
+I use ACE from [linking your thinking](https://www.linkingyourthinking.com/) as a way to organize notes in obsidian 

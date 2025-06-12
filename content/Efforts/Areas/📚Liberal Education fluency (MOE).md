@@ -9,12 +9,20 @@ tags:
 rank: "4"
 ---
 
+ - [[Mastery Pathways]]
+ - [[Critical Thinking Mastery Study Plan]]
+ - [[Critical Thinking Mastery self assessment checklist]]
+ - [[Intellectual Breadth mastery path]]
+ - [[intellectual breath mastery resources]]
 
  - [[GttGB graded study plan]]
  - [[Paideia self-directed study guide]]
  - [[A Renaissance of Learning-Customized Liberal Education Plan]]
  - [[A Theological Journey-From Code to Creation]]
  - [[Critical Thinking Mastery Study Plan]]
+ - [[Critical Thinking Mastery self assessment checklist]]
+ - [[Intellectual Breadth mastery path]]
+ - [[intellectual breath mastery resources]]
 
 My working definition of a liberal educations:
 - Foundation - trivium
@@ -88,6 +96,12 @@ I want a learning path for critical thinking to get me to a validated mastery le
 
 I want a learning path toward a validated level of mastery of  Intellectual Breadth
 
-I want an evidence based effective  learning path toward a validated level of mastery of  Intellectual Breadth, critical thinking and analysis, personal development and ethics and creativity and imagination 
+Please provide an effective evidence based  detailed  path to a validated level of mastery learning of  Intellectual Breadth, critical thinking, analysis, personal development, ethics, creativity and imagination.
 
 [[comprehensive mastery  learning path]]
+
+Competency-based progression, ensuring mastery at each step.
+
+Rooted in replicated, peer-reviewed research, Tested in real-world settings, Benefits outweigh costs
+
+Please provide an effective Rooted in replicated, peer-reviewed research, Tested in real-world settings, Benefits outweigh costs  detailed  path to a validated level of Competency-based progression, ensuring mastery at each step learning of  Intellectual Breadth, critical thinking, analysis, personal development, ethics, creativity and imagination.

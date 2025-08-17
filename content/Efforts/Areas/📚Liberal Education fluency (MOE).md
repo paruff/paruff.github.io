@@ -15,6 +15,11 @@ rank: "4"
  - [[Intellectual Breadth mastery path]]
  - [[intellectual breath mastery resources]]
 
+
+[[MBCT Liberal Education Integration Plan]]
+[[MBCT Beginner’s Quick-Start Guide]]
+
+
  - [[GttGB graded study plan]]
  - [[Paideia self-directed study guide]]
  - [[A Renaissance of Learning-Customized Liberal Education Plan]]

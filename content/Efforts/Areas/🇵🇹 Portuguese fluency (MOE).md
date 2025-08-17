@@ -16,6 +16,8 @@ rank: "4"
 -  [[Portugues prompts]]
 -  [[Portuguese tracker]]
 -  [[Portuguese Progress]]
+- [[portuguese fluency 1]]
+- [[European Portuguese Fluency Mastery Education Plan]]
 
 
 ---

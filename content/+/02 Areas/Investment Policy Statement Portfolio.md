@@ -1,139 +1,140 @@
+# 🗂️ Investment Policy Statement (IPS)
 
-### Accounts:
-IRA, Roth IRA, Inherited IRA and taxable brokerage account are at Schwab. A taxable brokerage account is at Vanguard. My HSA is at Fidelity. Savings account is at USAA. 
+## 🏦 Accounts & Custodians  
+- **Schwab:** IRA, Roth IRA, Inherited IRA, taxable brokerage  
+- **Vanguard:** Taxable brokerage  
+- **Fidelity:** HSA  
+- **USAA:** Savings account  
 
-### Transfers/exchanges
-We use Wise and Spartan FX to transfer dollars to euros from USAA to Millennium.
+---
 
-Invest in passively managed index funds for US stocks, U.S. Treasury bonds, and gold. Do not buy assets outside of these classes, including but not limited to actively managed funds, derivatives, derivatives-based funds, REITs, individual real estate investment properties, broad commodities funds, and individual stocks. Do not use leverage. Aim for lowest fees whenever possible. 
+## 💱 Currency Transfers  
+- Use **Wise** or **Spartan FX** for USD → EUR transfers (from USAA to Millennium)  
 
-### Asset location
-Try to allocate based on relative tax efficiency whenever possible. Do not hold gold in taxable space.  
+---
 
+## 💡 Investment Strategy  
 
+- **Core Holdings:**  
+  - US Stocks (broad index)  
+  - US Treasury Bonds  
+  - Gold  
 
-### Asset allocation
-Asset allocation should follow the simple formula of [age minus 20] for fixed income allocation.  5-10% of the portfolio should be allocated to gold at all times, via an index ETF tracking the spot price of gold bullion. 
+- **Excluded Assets:**  
+  - No actively managed funds, derivatives, REITs, individual real estate, commodities, individual stocks  
+  - No leverage  
 
-Current portfolio at age 58 is: 
-VTI - global stock market - 30% 
-VIOV - US small cap value  - 30% 
-VGLT - US government bond long term - 20% 
-GLDM - gold - 10%
-DBMF - managed futures - 5%
-Cash - cash and/or short term US treasure - 5% 
+- **Fee Discipline:**  
+  - Prioritize lowest-cost funds  
 
-Any change to these assets or allocations will require a 3 month waiting period unless a fund is liquidated by the fund provider and requires immediate replacement. 
+---
 
-Automate new contributions wherever possible. Invest all investable cash as soon as it becomes available. No Dollar Cost Averaging. No market timing. 
+## 🗃️ Asset Location Policy  
 
-Reinvest dividends ???
+- Allocate by **relative tax efficiency**  
+- **Gold is prohibited in taxable accounts**  
 
-### Rebalance strategy 
-Rebalance based on a threshold of 20% from desired check quarterly. 
+---
 
-![Rebalance visual](https://www.definefinancial.com/wp-content/uploads/2020/10/Sell-High-Buy-Low-717x259.png)
+## 📊 Asset Allocation Policy  
 
-![Buy Low, Sell High](https://c2.staticflickr.com/8/7384/9681616250_5d57d8d182_z.jpg)
-### Withdrawal strategy 
-Withdrawal rate of 4 - 4.5% done quarterly
+- **Bond Allocation = Age − 20**  
+- **Gold Allocation = 5–10%** (via low-cost spot price ETF)  
 
+### 🧭 Current Allocation (Age 60):  
+- **30% VTI** — Total US Stock Market  
+- **30% AVUV** — US Small Cap Value  
+- **12% GOVZ** — Long-Term US Treasury Bonds  
+- **13% GLDM** — Gold  
+- **10% DBMF** — Managed Futures  
+- **5% Cash/T-Bills**  
 
+---
 
-Here is a video of how to adjust our withdrawal rate https://youtu.be/kPc8ng3sYB0?si=VsxC5tdNtM9fioXe
+## 💰 Contribution & Deployment Policy  
 
-Using this sheet https://docs.google.com/spreadsheets/d/1eKInmsjjIEmYB59LWf15W90y6tOy6Hp-gwG28_Va6W4/edit
+- Automate contributions whenever possible  
+- Deploy investable cash **immediately** (no DCA or market timing)  
+- **Automatically reinvest dividends**  
 
+---
 
+## ⚖️ Rebalancing Policy  
 
-Use the CAPE as a long term adjustment for the 
+- **Threshold:** Rebalance when allocation drifts **±20%** from target  
+- **Frequency:** Review quarterly  
+- **Mechanism:** Use rebalancing as a **Shannon’s Demon strategy** — systematically capture volatility  
+- Visual Aids:  
+  ![Rebalance Visual](https://www.definefinancial.com/wp-content/uploads/2020/10/Sell-High-Buy-Low-717x259.png)  
 
+---
 
+## 🏦 Withdrawal Strategy  
 
-Ignore short-term noise. Don't pay attention to headlines. Stay the course. Keep the long-term view. 
+- **Base Rate:** **4–4.5% annually**, withdrawn **quarterly**  
+- **Adjustments:**  
+  - Use **CAPE-based adjustments** ([Video Guide](https://youtu.be/kPc8ng3sYB0?si=VsxC5tdNtM9fioXe))  
+  - Adjust annually for **EU CPI**  
+  - [Withdrawal Calculator](https://docs.google.com/spreadsheets/d/1eKInmsjjIEmYB59LWf15W90y6tOy6Hp-gwG28_Va6W4/edit)  
 
-Any change to this investment policy statement will require a 6 month waiting period.
+> 📝 **Possible Future Update:** Explore amortized withdrawal method for smoother cash flow  
 
+---
 
-Notes:
+## 🔄 Change Management Policy  
 
-[Boglehead ](https://www.bogleheads.org/wiki/Investment_policy_statement)
-[New retirement IPS](https://www.newretirement.com/retirement/investment-policy-statement/)
-## Portfolio
-Large Cap Growth 30%
-Small Cap Value 30%
-Long Term Government Bonds 20%
-Gold 15%
-Cash 5%
+- **Asset/Allocation Changes:** Require **3-month waiting period** unless fund is liquidated  
+- **IPS Revisions:** Require **6-month waiting period**  
 
-Future shift some portion of the gold to Managed Futures DBMF , kmlm 
+---
 
-## Withdrawal strategy 
-Base 4 -4.5% 
-Annual adjusting CPI for eu
+## 🎯 Why This Works — The IPS Philosophy  
 
-## Rebalance strategy 
-Quarterly or is it % ?
+- **Diversification with Low Correlation Assets (Holy Grail Principle):**  
+  Spreads risk across different sources of return  
 
-https://www.kitces.com/blog/best-opportunistic-rebalancing-frequency-time-horizons-vs-tolerance-band-thresholds/
+- **Macro-Allocation Drives Returns:**  
+  Asset allocation explains ~90% of portfolio outcomes ([Correlations Tool](https://www.portfoliovisualizer.com/asset-correlations))  
 
-https://www.portfoliovisualizer.com/monte-carlo-simulation
+- **Simplicity Principle:**  
+  Complexity is a cost. A simple, disciplined approach maximizes efficiency and reduces behavioral risk  
 
-Rebalance threshold:
-https://monevator.com/threshold-rebalancing/
+- **Behavioral Guardrails:**  
+  Clear rules help avoid emotional decisions and market timing traps  
 
-27.5 % total stock
-27.5% small cap value 
-30% mid to long is gov bonds 
-15% gold 
-withdrawal rate, duration
-5% safe  , Over 30 years 
-4.6% , over 40 years 
-4.3. % , over 50 years 
+- **Shannon’s Demon (Rebalancing Alpha):**  
+  By consistently rebalancing, you buy low, sell high, and potentially capture volatility-based growth  
 
-https://podcasts.apple.com/pt/podcast/risk-parity-radio/id1525099266?i=1000629810836
+- **Evidence-Based Withdrawal Strategy:**  
+  A CAPE-informed, inflation-adjusted withdrawal approach balances sustainability with spending needs  
 
+---
 
-Advice from Hal:
-Thanks for sharing your detailed investment policy statement. I'd recommend considering visuals that illustrate your diversified portfolio, perhaps using symbols or icons representing each asset class. A visual breakdown of your asset allocation and transfer/exchange process could also be effective. Let me know if you have any specific imagery in mind or if you'd like me to come up with ideas based on these suggestions.
+## 📝 Summary Checklist  
 
-1. **Visual Breakdown:**
-   - *Medium:* Infographic
-   - *Subject:* Colorful icons representing each asset class (VTI, VIOV, VGLT, GLDM, DBMF).
-   - *Colors:* Reflect the characteristics of each class.
-   - *Background:* Financial charts and graphs to convey the investment landscape.
+- [ ] ✅ Use passively managed index funds only  
+- [ ] ✅ No leverage, no derivatives, no REITs, no individual stocks  
+- [ ] ✅ Automate contributions and reinvest dividends  
+- [ ] ✅ Rebalance quarterly or at ±20% drift, using Shannon’s Demon principle  
+- [ ] ✅ Withdraw 4–4.5% annually, adjusted for CAPE and CPI  
+- [ ] ✅ Apply change management waiting periods  
+- [ ] ✅ Ignore headlines — stick to the plan  
 
-2. **Asset Allocation Snapshot:**
-   - *Medium:* Digital Art
-   - *Subject:* A pie chart divided into segments, each labeled with the corresponding asset and percentage.
-   - *Colors:* Use a color scheme that resonates with financial stability.
-   - *Background:* A subtle blend of market-related elements.
+---
 
-3. **Investment Journey:**
-   - *Medium:* Photo Collage
-   - *Subject:* Images representing the journey of your investments (e.g., a globe for global market, vault for gold).
-   - *Colors:* Harmonious tones conveying growth and stability.
-   - *Background:* Blurred financial newspaper headlines to represent the long-term perspective.
+## 📚 References & Further Reading  
 
-4. **Rebalancing Act:**
-   - *Medium:* Graphical Representation
-   - *Subject:* A seesaw with asset class symbols, depicting the rebalancing act.
-   - *Colors:* Balanced tones to reflect the equilibrium.
-   - *Background:* Gradual shifts in market landscapes.
+- [Bogleheads IPS Guide](https://www.bogleheads.org/wiki/Investment_policy_statement)  
+- [New Retirement IPS Guide](https://www.newretirement.com/retirement/investment-policy-statement/)  
+- [Risk Parity Radio — Principles](https://www.riskparityradio.com/podcast)  
+- [Kitces on Rebalancing](https://www.kitces.com/blog/best-opportunistic-rebalancing-frequency-time-horizons-vs-tolerance-band-thresholds/)  
+- [Monte Carlo Analysis Tool](https://www.portfoliovisualizer.com/monte-carlo-simulation)  
+- [Monevator on Threshold Rebalancing](https://monevator.com/threshold-rebalancing/)  
 
-Feel free to let me know if you'd like adjustments or if any of these concepts resonate with you!
+---
 
+> ⚖️ **“Ignore short-term noise. Stay the course. Think long-term.”**  
 
+[[💰 My Finance (MOE)]]
 
-
-Principles:
-
-The three basic principles are (1) the Holy Grail Principle; (2) the Macro-Allocation Principle; and (3) the Simplicity Principle.
-
-[Risk parity podcast ep 7 principles](https://www.riskparityradio.com/podcast)
-
-[Macro-allocation principle](https://www.portfoliovisualizer.com/asset-correlations)
-
-1. Holy Grail Principle - find and combine the least correlated asset classes we can find 
-2. Macro-allocation principle - 90% of your portfolio performance can be attributed to macro asset allocation 
-3. Simplicity Principle - better off using the least number of assets. ”complexity is a cost, simplicity is an alpha.”
+[[transfering Highland REITs back to compushares]]

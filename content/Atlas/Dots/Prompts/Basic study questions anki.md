@@ -23,6 +23,6 @@ tags:
 - Use  Basic  notetype.
 - Use images to support dual encoding in the basic cards. Please provide URL to copyright free resources and unrestricted access. Images must be in a html ‘<img src=“URL” alt=“”>’
 
-**FORMAT**: Please provide this information in a csv file export with columns: Questions, detailed explanation , Front/question image, back/answer image and  tags.  The explanation should be informed by the elaboration. Include a concreate example to the explanation field. Tags should include, [SUBJECT], [FOCUS], cloze, keywords and concepts in the card.
+**FORMAT**: Please provide this information in a csv file export with columns: Questions, detailed explanation , Front/question image, back/answer image and  tags.  The explanation should be informed by the elaboration. Include a concreate example to the explanation field. Tags should include, [SUBJECT], [FOCUS], keywords and concepts in the card.
 
 **TARGET**: This is for an [AUDIENCE].

@@ -26,6 +26,7 @@ Efforts:
 - [[Fawkes MOE]]
 - [[📚Liberal Education Fluency (MOE)]]
 - [[Food Independenct (MOE)]]
+- [[Security MOE]]
   
 FAN:
 - [[Exchange rates USD to EUR]]

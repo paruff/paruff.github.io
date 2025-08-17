@@ -5,3 +5,4 @@
 
 From Mike Seuss Tesla 
 
+https://www.tesla.com/ownersmanual/2020_2024_modely/en_us/GUID-9A3F0F72-71F4-433D-B68B-0A472A9359DF.html#UMC_A017

@@ -21,3 +21,6 @@ collection:
 	-Format: This refers to the structural arrangement or presentation style of the LLM’s generated content. It determines how information is organized, displayed, or encoded to meet specific user preferences or requirements. Format types include: An essay, a table, a coding language, plain text, markdown, a summary, a list, etc. 
 	-Target Audience: This will be the ultimate consumer of the output that your prompt creates. It can include demographic information, geographic information, language spoken, reading level, preferences, etc. 
 	TARGET AUDIENCE: The target audience for this prompt creation is [MODEL]. Please reference the example I have just provided for your output. Again, take a deep breath and take it one step at a time.
+
+
+[[show work prompt]]

@@ -10,9 +10,9 @@ rank:
  - [[DORA Metrics Consulting Client Acquisition Strategy]]
  - Marketing 
 
-	 - [[linkedin marketing campaign]] 1 
-	 - [[Metric Content long  posts]]
-	 - [[DORA Metrics & Developer Productivity Thought Leadership Program]]
+	 - [[linkedin marketing campaign]]  60 day
+	 - [[DORA Metric Content long  posts]]
+	 - [[LinkedIn Content Campaign- DevOps Advisory & Fawkes Platform]] 3 month
 
 
 Tools:

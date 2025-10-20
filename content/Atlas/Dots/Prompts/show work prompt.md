@@ -16,3 +16,6 @@ Before answering, work through this step-by-step:
 
 
 Now answer: 
+
+
+[[Vibe structure prompts]]

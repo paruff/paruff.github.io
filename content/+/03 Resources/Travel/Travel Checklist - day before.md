@@ -7,4 +7,14 @@ Day before
  - [] photo contents of luggage, add tracking device
  - [] charge  devices, pack cables and chargers, phone, tablet, headphone, watch , batteries, 
  - [] save travel insurance docs on phone
+What to bring
+Go pro
+Sun glasses
+Hat, sun
+Coat rain
+Coat ,  warm
+Hoodie
+Umbrella , short 
+
+
 

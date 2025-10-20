@@ -13,7 +13,10 @@ rank:
 	 - [[linkedin marketing campaign]]  60 day
 	 - [[DORA Metric Content long  posts]]
 	 - [[LinkedIn Content Campaign- DevOps Advisory & Fawkes Platform]] 3 month
+	 - [[Semester one DevOps Dojo]]
 
+
+[[Fawkes MVP implementation plan]]
 
 Tools:
 IDE 

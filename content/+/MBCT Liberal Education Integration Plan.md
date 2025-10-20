@@ -559,3 +559,5 @@ This educational approach represents a pioneering integration of therapeutic min
 - Santorelli, S. F. (1999). *Heal Thy Self: Lessons on Mindfulness in Medicine*
 
 This comprehensive plan provides a structured yet flexible framework for integrating MBCT into your liberal education journey while honoring your existing connections with Unified Mindfulness and Oxford Mindfulness communities. The approach balances rigorous scholarship with deep experiential learning, creating a foundation for both personal transformation and potential contribution to the broader MBCT community. 
+
+[[Cognitive behavioral therapy]]

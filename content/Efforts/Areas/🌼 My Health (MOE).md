@@ -27,3 +27,5 @@ Fuzzy areas like [[🌼 My Health (MOE)]] and [[💰 My Finance (MOE)]] are both
 	- [[Workouts Tracker]]
 	- [[Injury Tracker MOC]]
 	- [[Body Quirks Tracker]]
+
+[[Isometric exersices]]

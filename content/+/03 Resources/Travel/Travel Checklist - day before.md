@@ -1,20 +1,31 @@
 [[Travel MOC]]
 
 Day before 
- - [] Get some ash
+ - [] Get some cash
  - [] photo travel docs and CC
- - [] check in to travel, txt yourself the flight id
+ - [] check in to travel/flight, txt yourself the flight id
  - [] photo contents of luggage, add tracking device
- - [] charge  devices, pack cables and chargers, phone, tablet, headphone, watch , batteries, 
+ - [] pack cables and chargers, 
+ - [] charge devices phone, tablet, headphone, watch , batteries, 
  - [] save travel insurance docs on phone
-What to bring
-Go pro
-Sun glasses
-Hat, sun
-Coat rain
-Coat ,  warm
-Hoodie
-Umbrella , short 
+ - [] cat food
+ - [] Cat litter
+ - [] cat fresh water
+ - [] Cat instructions
+ - [] Charge the car
+ - [] top up MIIO card
+ - [] bring out trash
+ - [] take out recycle
+ - [] take out compost
+ - [] empty dishwasher
+ - [] empty washing machine and dryer
+ - [] protect yard from wind and weather, chairs, tables, lamps etc
+ - [] Water plants
+ - [] Turn heat onto vacation mode
+ - [] clean refidgerator
+ - [] 
+
+
 
 
 

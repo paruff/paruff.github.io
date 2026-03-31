@@ -49,5 +49,8 @@ LIMIT 22
 
 ---
 
+- [[Daily start stop]]
 
+- [[Startup]]
+- [[Shutdown]]
 Back to [[Home Pro]] 

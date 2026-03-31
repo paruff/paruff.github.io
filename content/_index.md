@@ -5,7 +5,7 @@ title: "🌱 Digital Garden"
 weight: 0
 ---
 
-# 🌱 Welcome to My Digital Garden
+# 🌱 Welcome to My Garden
 
 Ideas grow here — cultivated through reflection, connection, and iteration.
 

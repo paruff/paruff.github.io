@@ -6,7 +6,7 @@ collection:
 created: 2021-02-01
 tags:
   - map
-rank: "4"
+rank: "5"
 ---
 
  - [[Mastery Pathways]]
@@ -110,3 +110,9 @@ Competency-based progression, ensuring mastery at each step.
 Rooted in replicated, peer-reviewed research, Tested in real-world settings, Benefits outweigh costs
 
 Please provide an effective Rooted in replicated, peer-reviewed research, Tested in real-world settings, Benefits outweigh costs  detailed  path to a validated level of Competency-based progression, ensuring mastery at each step learning of  Intellectual Breadth, critical thinking, analysis, personal development, ethics, creativity and imagination.
+
+[[Essays]]
+
+[[Integral 2nd tier plan]]
+[[toward 2nd tier movie guide]]
+[[Toward 2nd with Shakespeare’s plays]]

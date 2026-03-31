@@ -21,6 +21,7 @@ Here are some areas to consider...
 	- [[My Medical]]
 	- [[My Auto]]
 	- [[My Bills]]
+	- [[HEMS]]
 - Big Out
 	- [[💸 My Taxes 2023 (MOE)]]
 - Accounts

@@ -1,0 +1,19 @@
+---
+up:
+  - "[[Efforts]]"
+collection:
+  - "[[Areas]]"
+related:
+  - "[[💰 My Finance (MOE)]]"
+created: 2024-08-06
+rank: "3"
+---
+Yeah, I'm keeping this private, but you get the idea.
+
+- Preparing
+	- [[VA Taxes]]
+	- [[US taxes]]
+	- [[PT taxes]]
+Paying
+
+Reducing/efficient

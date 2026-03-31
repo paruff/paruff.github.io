@@ -15,11 +15,11 @@ Ideas grow here — cultivated through reflection, connection, and iteration.
 
 ## 🧭 Start Here
 
-🌿 Galope (permaculture + food forest) → [[Food Forest MOC]]
-🧠 Learning (liberal education + Portuguese) → [[Learning MOC]]
-💻 Fawkes (DevOps consulting) → [[Fawkes MOE]]
-🧘 Integral Practice → [[Mindfulness MOC]]
-🌍 Portugal Life (immigration, taxes, travel) → [[Portugal MOC]]
+ - 🌿 Galope (permaculture + food forest) → [[Food Forest MOC]]
+ - 🧠 Learning (liberal education + Portuguese) → [[Learning MOC]]
+ - 💻 Fawkes (DevOps consulting) → [[Fawkes MOE]]
+ - 🧘 Integral Practice → [[Mindfulness MOC]]
+ - 🌍 Portugal Life (immigration, taxes, travel) → [[Portugal MOC]]
 
 ---
 

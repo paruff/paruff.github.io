@@ -15,11 +15,11 @@ Ideas grow here — cultivated through reflection, connection, and iteration.
 
 ## 🧭 Start Here
 
-- 🧠 **Thinking Hubs (Atlas):** [[Atlas]]
-- 🌿 **Refined Ideas (Garden):** [[Garden]]
-- 📚 **Curated Resources (Collections):** [[Collections]]
-- 🏷️ **Topics by Tag:** [[Tags]] [All Tags](/tags/)
-- 🧵 **Changelog / Updates:** [[Changelog]]
+🌿 Galope (permaculture + food forest) → [[Food Forest MOC]]
+🧠 Learning (liberal education + Portuguese) → [[Learning MOC]]
+💻 Fawkes (DevOps consulting) → [[Fawkes MOE]]
+🧘 Integral Practice → [[Mindfulness MOC]]
+🌍 Portugal Life (immigration, taxes, travel) → [[Portugal MOC]]
 
 ---
 

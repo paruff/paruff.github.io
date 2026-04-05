@@ -34,6 +34,27 @@ body {
 	letter-spacing: 0.02em;
 }
 
+.quick-links-strip {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	padding: 0.7rem;
+	margin: 0 0 1rem 0;
+	border: 1px solid var(--border-soft);
+	border-radius: 12px;
+	background: var(--surface-2);
+
+	a {
+		display: inline-block;
+		padding: 0.25rem 0.65rem;
+		border-radius: 999px;
+		border: 1px solid var(--border-soft);
+		background: var(--light);
+		font-size: 0.9rem;
+		line-height: 1.2;
+	}
+}
+
 .sidebar {
 	gap: 1.2rem !important;
 
@@ -147,5 +168,15 @@ article {
 		box-shadow: none;
 		background: transparent;
 		padding: 0;
+	}
+
+	.quick-links-strip {
+		gap: 0.35rem;
+		padding: 0.55rem;
+
+		a {
+			font-size: 0.85rem;
+			padding: 0.2rem 0.5rem;
+		}
 	}
 }

@@ -3,3 +3,11 @@ _site
 *.swp
 .sass-cache
 
+node_modules/
+public/
+quartz/.quartz-cache/
+tsconfig.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

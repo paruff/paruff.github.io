@@ -1,13 +1,19 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Efforts]]"
 collection:
   - "[[Areas]]"
 related: 
 created: 2010-01-01
+effort: true
+status: sleeping
+rank: 4
 tags:
-  - map
-rank: "4"
+  - effort
+  - effort-area
+  - domain-food
+  - domain-permaculture
+  - method-design
 ---
 
 

@@ -21,7 +21,6 @@ When changing layout or content navigation:
   - `/tags`
   - `/Atlas`
   - `/Efforts`
-  - `/Calendar`
 - Prefer stable, short slugs for hub pages.
 - Do not add links to pages that do not exist.
 - Ensure onboarding pages (`content/start-here.md`, `content/About.md`, `content/_index.md`) reference valid internal destinations.
@@ -51,6 +50,19 @@ When editing notes used for navigation:
 - Keep headings concise and scannable.
 - Provide clear next actions with internal links.
 - Avoid overlong intro prose on hub pages.
+
+## Ideaverse Consistency
+
+When editing effort, area, project, and work notes based on Linking Your Thinking / Ideaverse patterns:
+
+- Use one valid frontmatter block only.
+- Keep core effort fields consistent where applicable:
+  - `effort: true`
+  - `status: active|simmering|sleeping|dormant`
+  - `rank: 1-5`
+  - `tags:` including `effort` and one structural tag (`effort-area`, `effort-project`, or `effort-work`).
+- Preserve existing LYT note style (MOC-first, map notes, and intentional cross-links).
+- Prefer adding 2-4 meaningful internal links that connect across domains, not just within one folder.
 
 ## Quality Checks Before Finishing
 

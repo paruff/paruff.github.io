@@ -4,16 +4,22 @@ collection:
   - "[[Works]]"
 related:
 created: 2025-05-30
-rank: "4"
+effort: true
+status: active
+rank: 2
+area: Platform Engineering
+tags: [effort, effort-work, domain-devops, domain-platform-engineering, method-dora, method-idp]
+last: "2026-01-21 - Reviewed Fawkes docs and clarified purpose"
+next: "Define the 3-5 core outcomes for my personal Fawkes implementation"
 ---
 [[Advisory + Product Strategy]]
  - [[DORA Metrics Consulting Client Acquisition Strategy]]
  - Marketing 
 
-	 - [[linkedin marketing campaign]]  60 day
-	 - [[DORA Metric Content long  posts]]
-	 - [[LinkedIn Content Campaign- DevOps Advisory & Fawkes Platform]] 3 month
-	 - [[Semester one DevOps Dojo]]
+   - [[linkedin marketing campaign]]  60 day
+   - [[DORA Metric Content long  posts]]
+   - [[LinkedIn Content Campaign- DevOps Advisory & Fawkes Platform]] 3 month
+   - [[Semester one DevOps Dojo]]
 
 
 [[Fawkes Startup]]
@@ -52,15 +58,6 @@ https://cnoe-io.github.io/
 [[Fawkes implementation handoff]]
 [[Fawkes Platform epic 4]]
 [[week 1 issues]]
----
-effort: true
-status: active
-rank: 2
-area: Platform Engineering
-tags: [effort, fawkes, platform, devops, idp, dora]
-last: "2026‑01‑21 – Reviewed Fawkes docs + clarified purpose"
-next: "Define the 3–5 core outcomes for my personal Fawkes implementation"
----
 
 [[Fawkes Startup]]
 [[Fawkes Shutdown]]

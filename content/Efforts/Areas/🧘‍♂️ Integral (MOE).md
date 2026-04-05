@@ -1,13 +1,19 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Efforts]]"
 collection:
   - "[[Areas]]"
 related:
 created: 2010-01-01
+effort: true
+status: dormant
+rank: 5
 tags:
-  - map
-rank: "5"
+  - effort
+  - effort-area
+  - domain-integral
+  - domain-media
+  - method-curation
 ---
 This is for areas of physical health, wellness, training, and exercise. 
 

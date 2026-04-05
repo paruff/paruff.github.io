@@ -1,31 +1,36 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Efforts]]"
 collection:
   - "[[Areas]]"
 related: 
 created: 2015-01-01
+effort: true
+status: simmering
+rank: 3
 tags:
-  - map
-rank: "3"
+  - effort
+  - effort-area
+  - domain-finance
+  - method-tracking
 ---
 Keep tabs on your personal finances. 
 Fuzzy areas like [[🌼 My Health (MOE)]] and [[💰 My Finance (MOE)]] are both maps and efforts.
 Here are some areas to consider...
 
 - In
-	- [[My Investments]]
+  - [[My Investments]]
 - Out
-	- [[My Insurance]]
-	- [[My Housing]]
-	- [[My Medical]]
-	- [[My Auto]]
-	- [[My Bills]]
-	- [[HEMS]]
+  - [[My Insurance]]
+  - [[My Housing]]
+  - [[My Medical]]
+  - [[My Auto]]
+  - [[My Bills]]
+  - [[HEMS]]
 - Big Out
-	- [[💸 My Taxes 2023 (MOE)]]
+  - [[💸 My Taxes 2023 (MOE)]]
 - Accounts
-	- [[My Accounts]]
+  - [[My Accounts]]
 
 Many of these areas (like managing taxes) work well in basic computer folders, PDFs, and spreadsheets. You can link from here to there. Then these notes become your hubs and launchpads. 
 

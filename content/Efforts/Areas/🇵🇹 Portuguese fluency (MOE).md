@@ -4,9 +4,15 @@ up:
 collection:
   - "[[Areas]]"
 created: 2021-02-01
+effort: true
+status: dormant
+rank: 5
 tags:
-  - map
-rank: "5"
+  - effort
+  - effort-area
+  - domain-language
+  - domain-portuguese
+  - method-practice
 ---
 
 

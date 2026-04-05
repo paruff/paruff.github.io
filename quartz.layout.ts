@@ -13,6 +13,13 @@ const includeInRecentNotes = (file: QuartzPluginData) => {
   )
 }
 
+const includeInActiveNow = (file: QuartzPluginData) => {
+  const fm = file.frontmatter ?? {}
+  const rank = Number(fm.rank ?? 99)
+  const status = String(fm.status ?? "").toLowerCase()
+  return fm.effort === true && status === "active" && rank <= 2
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -46,6 +53,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.MobileOnly(
       Component.RecentNotes({
+        title: "Active Now",
+        limit: 4,
+        showTags: false,
+        filter: includeInActiveNow,
+      }),
+    ),
+    Component.MobileOnly(
+      Component.RecentNotes({
         title: "Recently Updated",
         limit: 4,
         showTags: false,
@@ -60,6 +75,14 @@ export const defaultContentPageLayout: PageLayout = {
     ),
   ],
   right: [
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Active Now",
+        limit: 6,
+        showTags: false,
+        filter: includeInActiveNow,
+      }),
+    ),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recently Updated",
@@ -95,6 +118,14 @@ export const defaultListPageLayout: PageLayout = {
     ),
   ],
   right: [
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Active Now",
+        limit: 6,
+        showTags: false,
+        filter: includeInActiveNow,
+      }),
+    ),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recently Updated",

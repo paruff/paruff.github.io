@@ -1,3 +1,151 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+	--surface-1: color-mix(in srgb, var(--light) 93%, var(--secondary) 7%);
+	--surface-2: color-mix(in srgb, var(--light) 88%, var(--tertiary) 12%);
+	--border-soft: color-mix(in srgb, var(--lightgray) 78%, var(--secondary) 22%);
+	--panel-shadow: 0 14px 34px rgba(20, 36, 50, 0.08);
+}
+
+body {
+	background:
+		radial-gradient(circle at 8% 10%, color-mix(in srgb, var(--tertiary) 13%, transparent) 0%, transparent 34%),
+		radial-gradient(circle at 92% 4%, color-mix(in srgb, var(--secondary) 11%, transparent) 0%, transparent 30%),
+		var(--light);
+}
+
+.page {
+	animation: page-enter 240ms ease-out both;
+}
+
+@keyframes page-enter {
+	from {
+		opacity: 0;
+		transform: translateY(8px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+.page-title a {
+	color: var(--dark);
+	letter-spacing: 0.02em;
+}
+
+.sidebar {
+	gap: 1.2rem !important;
+
+	.search,
+	.darkmode,
+	.explorer,
+	.recent-notes,
+	.graph,
+	.toc,
+	.backlinks {
+		border: 1px solid var(--border-soft);
+		border-radius: 14px;
+		background: var(--surface-1);
+		box-shadow: var(--panel-shadow);
+		padding: 0.8rem 0.95rem;
+	}
+}
+
+.explorer {
+	#explorer {
+		margin-bottom: 0.3rem;
+	}
+
+	ul {
+		line-height: 1.45;
+	}
+}
+
+.recent-notes {
+	> h3 {
+		font-size: 0.92rem;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		margin-bottom: 0.4rem;
+		color: var(--secondary);
+	}
+
+	.recent-ul .recent-li {
+		border-left: 2px solid color-mix(in srgb, var(--secondary) 40%, transparent);
+		padding-left: 0.5rem;
+	}
+}
+
+article {
+	background: color-mix(in srgb, var(--light) 98%, var(--secondary) 2%);
+	border: 1px solid var(--border-soft);
+	border-radius: 16px;
+	padding: 1.4rem 1.5rem;
+	box-shadow: 0 10px 26px rgba(22, 31, 45, 0.06);
+
+	> h1 {
+		margin-top: 0.6rem;
+	}
+}
+
+.page-footer footer {
+	border-top: 1px solid var(--border-soft);
+	padding-top: 1rem;
+
+	ul {
+		flex-wrap: wrap;
+		gap: 0.6rem;
+		margin-top: 0.2rem;
+	}
+
+	li a {
+		display: inline-block;
+		border: 1px solid var(--border-soft);
+		border-radius: 999px;
+		padding: 0.25rem 0.6rem;
+		background: var(--surface-2);
+		font-size: 0.9rem;
+		transition: transform 140ms ease;
+
+		&:hover {
+			transform: translateY(-1px);
+		}
+	}
+}
+
+@media all and (max-width: 1150px) {
+	article {
+		border-radius: 12px;
+		padding: 1.15rem 1rem;
+	}
+}
+
+@media all and (max-width: 800px) {
+	.sidebar {
+		.search,
+		.darkmode,
+		.explorer,
+		.recent-notes,
+		.graph,
+		.toc,
+		.backlinks {
+			border-radius: 10px;
+			padding: 0.65rem 0.7rem;
+			box-shadow: none;
+		}
+	}
+
+	.search {
+		max-width: none;
+		min-width: 0;
+		width: 100%;
+	}
+
+	article {
+		border: none;
+		box-shadow: none;
+		background: transparent;
+		padding: 0;
+	}
+}

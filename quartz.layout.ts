@@ -8,8 +8,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Home: "/",
+      "Start Here": "/start-here",
+      About: "/about",
+      Tags: "/tags",
+      Atlas: "/Atlas",
+      GitHub: "https://github.com/paruff/paruff.github.io",
     },
   }),
 }
@@ -27,10 +31,29 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.MobileOnly(
+      Component.RecentNotes({
+        title: "Recently Updated",
+        limit: 4,
+        showTags: false,
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Browse Notes",
+        folderDefaultState: "collapsed",
+      }),
+    ),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recently Updated",
+        limit: 8,
+        showTags: false,
+      }),
+    ),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -44,7 +67,20 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Browse Notes",
+        folderDefaultState: "collapsed",
+      }),
+    ),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recently Updated",
+        limit: 10,
+        showTags: false,
+      }),
+    ),
+  ],
 }

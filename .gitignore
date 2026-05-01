@@ -11,3 +11,57 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Secrets
+*.env
+.env*
+*.secret
+*.key
+
+# Personal health data — NEVER commit
+data/health*
+data/clinic*
+*health_log.json*
+
+# Portfolio values — store encrypted separately
+data/portfolio/portfolio.json
+*portfolio_values*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Mac
+.DS_Store
+
+# Audit reports with personal data
+scripts/knowlden_audit_report.md
+
+# Private vault content — NEVER commit to public repo
+content/Private/
+content/private/
+content/Estate/
+content/Health/
+content/Finance/
+content/Security/
+content/Clinic/
+content/Copilot-System-Prompts/
+content/copilot-custom-prompts/
+
+# Data files
+content/**/*.json
+content/**/*.py
+content/**/*.sh
+content/**/*.env
+
+# Obsidian internals
+content/.obsidian/
+content/.trash/
+
+# Build artifacts
+public/
+node_modules/
+
+# System
+.DS_Store
+*.log

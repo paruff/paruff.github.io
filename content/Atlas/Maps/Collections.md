@@ -59,7 +59,7 @@ LIMIT 111
 
 - [[Efforts]]
 - Areas
-	- [[Projects]] | [[Active Projects]] | [[Simmering Projects]] | [[Sleeping Projects]]
+	- [[Projects]] | [[Atlas/Maps/Active Projects]] | [[Simmering Projects]] | [[Sleeping Projects]]
 - Works
 
 ![[whelan-space-station-1978-narrow.jpg|700]]

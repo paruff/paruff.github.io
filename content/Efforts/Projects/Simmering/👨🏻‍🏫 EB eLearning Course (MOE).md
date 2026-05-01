@@ -2,13 +2,10 @@
 up:
   - "[[Efforts]]"
 collection:
-  - "[[Areas]]"
+  - "[[Projects]]"
 related:
 created: 2023-06-30
-effort: true
-status: simmering
-rank: 3
-tags: [effort, effort-area, domain-learning, domain-elearning, method-course-design]
+rank: "5"
 ---
 
 
@@ -20,7 +17,7 @@ tags: [effort, effort-area, domain-learning, domain-elearning, method-course-des
 - Question, focus [[Focus question prompt]]
 - Hook [[Hook prompt]]
 - Direct instruction video, script [[Script prompt]]
-  - - Foundational material (I do) 7-15 minutes
+	- - Foundational material (I do) 7-15 minutes
 - Recall questions, - formative assessment (We do)
 - Practice questions [[Recall questions prompt]]
 - Summative assessment
@@ -38,13 +35,13 @@ tags: [effort, effort-area, domain-learning, domain-elearning, method-course-des
 
 ## Objectives
 - Course
-  - Mind map 
-  - Metaphor, visual 
+	- Mind map 
+	- Metaphor, visual 
 - Lesson
-  - Question, focus
-  - Hook
-  - Direct instruction video, script
-  - Recall questions
+	- Question, focus
+	- Hook
+	- Direct instruction video, script
+	- Recall questions
 - Practice questions
 
 Addressing learning challenges:

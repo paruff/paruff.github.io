@@ -87,7 +87,7 @@ https://mindmappingsoftwareblog.com/the-3-best-mind-mapping-programs-for-making-
 
 research:
 
-https://www.researchgate.net/profile/Yong-Zeng-21/publication/359005858_Effects_of_mind_mapping-based_instruction_on_student_cognitive_learning_outcomes_a_meta-analysis/links/622bc0a684ce8e5b4d1c3a41/Effects-of-mind-mapping-based-instruction-on-student-cognitive-learning-outcomes-a-meta-analysis.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+https://www.researchgate.net/profile/Yong-Zeng-21/publication/359005858_Effects_of_mind_mapping-based_instruction_on_student_cognitive_learning_outcomes_a_meta-analysis/links/622bc0a684ce8e5b4d1c3a41/Effects-of-mind-mapping-based-instruction-on-student-cognitive-learning-outcomes-a-meta-analysis.pdf?origin=publication_detail&
 https://files.eric.ed.gov/fulltext/EJ1008680.pdf
 
 

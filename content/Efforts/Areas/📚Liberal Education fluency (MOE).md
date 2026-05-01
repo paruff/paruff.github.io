@@ -4,15 +4,9 @@ up:
 collection:
   - "[[Areas]]"
 created: 2021-02-01
-effort: true
-status: dormant
-rank: 5
 tags:
-  - effort
-  - effort-area
-  - domain-learning
-  - domain-liberal-education
-  - method-curriculum
+  - map
+rank: "5"
 ---
 
  - [[Mastery Pathways]]
@@ -37,19 +31,19 @@ tags:
 
 My working definition of a liberal educations:
 - Foundation - trivium
-  - grammar
-  - logic
-  - rhetoric
+	- grammar
+	- logic
+	- rhetoric
 - quadrivim
-  - History
-  - Philosophy
-  - Literature
-  - theology
+	- History
+	- Philosophy
+	- Literature
+	- theology
 - Arts
-  - Music
+	- Music
 - Sciences
-  - Mathimatics
-  - Astonomy
+	- Mathimatics
+	- Astonomy
 
 An important enhancement is to include eastern thought into this set of studies.
 
@@ -95,7 +89,7 @@ https://teachers.institute/education-nature-purposes/liberal-education-human-min
 
 [[Intellectual Breadth mastery path]]
 ### Critical Thinking and Analytical Skills
-  (critical thinking courses)[https://skillscouter.com/online-critical-thinking-courses/]
+	(critical thinking courses)[https://skillscouter.com/online-critical-thinking-courses/]
 https://argumentful.com/16-best-free-online-critical-thinking-courses/
 
 [https://www.coursera.org/courses?query=critical%20thinking](https://skillscouter.com/online-critical-thinking-courses/%0Ahttps://argumentful.com/16-best-free-online-critical-thinking-courses/%0A%0Ahttps://www.coursera.org/courses?query=critical%20thinking)

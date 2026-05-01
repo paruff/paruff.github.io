@@ -1,13 +1,8 @@
 ---
 up: "[[Efforts]]"
-collection:
-  - "[[Projects]]"
 related:
 created: 2024-08-09
-effort: true
-status: sleeping
-rank: 1
-tags: [effort, effort-project, domain-home, domain-property, method-repair]
+rank: "5"
 ---
 
 On July 10 there was a plumbing issue. Cracked toilet tank(s) started leaking from one or more of the upstairs bathrooms.

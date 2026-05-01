@@ -1,19 +1,13 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Home]]"
 collection:
   - "[[Areas]]"
 related:
 created: 2010-01-01
-effort: true
-status: dormant
-rank: 5
 tags:
-  - effort
-  - effort-area
-  - domain-integral
-  - domain-media
-  - method-curation
+  - map
+rank: "1"
 ---
 This is for areas of physical health, wellness, training, and exercise. 
 
@@ -33,4 +27,6 @@ This is for areas of physical health, wellness, training, and exercise.
 [[Integral Westworld season 2]]
 [[Twin Peaks engagement guide]]
 [[Battlestar Galactica (2003) engagement guide]]
+[[Sense8]]
+[[The Expanse]]
 

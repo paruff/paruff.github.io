@@ -1,13 +1,8 @@
 ---
 up: "[[Efforts]]"
-collection:
-  - "[[Projects]]"
 related:
 created: 2026-01-09
-effort: true
-status: sleeping
-rank: 4
-tags: [effort, effort-project, domain-home, domain-energy, method-insulation]
+rank: "4"
 ---
 Last: updated converter to support lower bit rates on BW and documentary/comedy 
 Next: converting Shakespeare courses

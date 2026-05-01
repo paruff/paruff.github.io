@@ -117,7 +117,7 @@ Go to the [[+ ACE Pack|ACE Pack]] to learn all the nuances of ACE.
 - [[Efforts]] 
 	- [[Areas]] 
 	- [[Projects]] 
-		- [[Active Projects]] 
+		- [[Atlas/Maps/Active Projects]] 
 		- [[Simmering Projects]] 
 		- [[Sleeping Projects]] 
 	- [[Works]] 

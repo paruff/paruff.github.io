@@ -134,7 +134,7 @@ The Atlas is home to templates for keeping your ideas and knowledge structured, 
 - Projects
 	- [[Projects Template]] 
 - Works
-	- [[Works Template]] 
+	- [[x/Templates/Works Template]] 
 
 ## x Templates
 The x folder doesn't have any dedicated templates, but it is the place where all the actual templates themselves are stored. 

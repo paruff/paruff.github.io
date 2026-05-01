@@ -1,0 +1,57 @@
+# Knowlden Vault — Git Ignore Rules
+# Place this file at: PAR I2/.gitignore
+# Blocks ALL private and sensitive content from GitHub
+
+# Private folder (health, finance, identity, legal)
+Private/
+private/
+
+# Live data files (contain financial + location data)
+00_Command/
+
+# Knowlden automation data
+Knowlden/
+
+# Health data patterns
+*lab*
+*Lab*
+*medical*
+*Medical*
+*health-log*
+*medication*
+*Medication*
+
+# Financial data patterns
+*portfolio*
+*Portfolio*
+*finance*
+*Finance*
+*tax*
+*Tax*
+*NHR*
+*nhr*
+
+# Credentials and tokens
+*token*
+*Token*
+*password*
+*Password*
+*secret*
+*Secret*
+*api-key*
+*.env
+*.env.*
+
+# Sensitive effort notes
+Efforts/Areas/💰*
+Efforts/Areas/🌼*
+Efforts/Areas/💸*
+
+# Obsidian internals
+.obsidian/
+.smart-env/
+.trash/
+.DS_Store
+
+# Private attachments
+attachments/private/

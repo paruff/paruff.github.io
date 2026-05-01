@@ -1,0 +1,7 @@
+# Weather
+
+Temp: ?
+Conditions: ?
+
+## Plan
+-

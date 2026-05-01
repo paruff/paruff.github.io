@@ -15,7 +15,7 @@ mapState:
 
 > [!mountain] [[Areas]] | **[[Projects]]** | [[Works]] 
 
-> [!training] [[Active Projects|Active]] | [[Simmering Projects|Simmering]] | **[[Sleeping Projects|Sleeping]]** 
+> [!training] [[Atlas/Maps/Active Projects|Active]] | [[Simmering Projects|Simmering]] | **[[Sleeping Projects|Sleeping]]** 
 
 These projects are barely on the plane of awareness, but can easily be reawakened. 
 

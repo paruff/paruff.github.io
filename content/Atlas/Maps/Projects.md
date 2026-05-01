@@ -15,7 +15,7 @@ mapState:
 
 > [!mountain] [[Areas]] | **[[Projects]]** | [[Works]] 
 
-> [!training] [[Active Projects|Active]] | [[Simmering Projects|Simmering]] | [[Sleeping Projects|Sleeping]] 
+> [!training] [[Atlas/Maps/Active Projects|Active]] | [[Simmering Projects|Simmering]] | [[Sleeping Projects|Sleeping]] 
 
 Keep your priorities in order. Quickly adjust your bandwidth as needed. Rerank often. 
 

@@ -13,7 +13,7 @@ mapState:
 
 > [!mountain] [[Areas]] | **[[Projects]]** | [[Works]] 
 
-> [!training] **[[Active Projects|Active]]** | [[Simmering Projects|Simmering]] | [[Sleeping Projects|Sleeping]] 
+> [!training] **[[Atlas/Maps/Active Projects|Active]]** | [[Simmering Projects|Simmering]] | [[Sleeping Projects|Sleeping]] 
 
 These are active projects that have most of your attention.  Aim for 3-11. Prioritize by rank.
 

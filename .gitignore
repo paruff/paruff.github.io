@@ -1,67 +1,119 @@
-_site
-.DS_Store
-*.swp
-.sass-cache
+# =============================================================================
+# KNOWLDEN — .gitignore
+# Vault: PAR I2  |  Updated: 2026-04-29
+# Rule: when in doubt, exclude. Audit before every git push.
+# =============================================================================
 
-node_modules/
+
+# -----------------------------------------------------------------------------
+# PRIVATE VAULT CONTENT — never commit
+# -----------------------------------------------------------------------------
+Private/
+private/
+Efforts/Areas/
+Resources/Health/
+Resources/Larder/
+Calendar/
+
+
+# -----------------------------------------------------------------------------
+# LIVE DASHBOARD DATA — regenerated on every refresh, contains location/finance
+# -----------------------------------------------------------------------------
+00_Command/
+
+
+# -----------------------------------------------------------------------------
+# SENSITIVE PATTERNS — catch-all by filename keyword
+# -----------------------------------------------------------------------------
+
+# Health
+*lab*
+*Lab*
+*medical*
+*Medical*
+*medication*
+*Medication*
+*health*
+*Health*
+*clinic*
+*Clinic*
+*vaccination*
+*Vaccination*
+
+# Finance
+*finance*
+*Finance*
+*portfolio*
+*Portfolio*
+*tax*
+*Tax*
+*NHR*
+*nhr*
+*invoice*
+*Invoice*
+
+# Credentials
+*token*
+*secret*
+*password*
+*api-key*
+*api_key*
+*.env
+*.env.*
+*.key
+*.secret
+~/.knowlden_secrets
+
+
+# -----------------------------------------------------------------------------
+# KNOWLDEN AUTOMATION — scripts, data, private config
+# -----------------------------------------------------------------------------
+Knowlden/
+scripts/knowlden_audit_report.md
+
+
+# -----------------------------------------------------------------------------
+# OBSIDIAN INTERNALS
+# -----------------------------------------------------------------------------
+.obsidian/
+.smart-env/
+.trash/
+
+
+# -----------------------------------------------------------------------------
+# BUILD ARTIFACTS (Quartz publish pipeline)
+# -----------------------------------------------------------------------------
+_site/
 public/
+node_modules/
 quartz/.quartz-cache/
 tsconfig.tsbuildinfo
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Secrets
-*.env
-.env*
-*.secret
-*.key
 
-# Personal health data — NEVER commit
-data/health*
-data/clinic*
-*health_log.json*
-
-# Portfolio values — store encrypted separately
-data/portfolio/portfolio.json
-*portfolio_values*
-
-# Python
+# -----------------------------------------------------------------------------
+# PYTHON
+# -----------------------------------------------------------------------------
 __pycache__/
 *.pyc
+*.pyo
 .venv/
 
-# Mac
+
+# -----------------------------------------------------------------------------
+# SYSTEM
+# -----------------------------------------------------------------------------
 .DS_Store
-
-# Audit reports with personal data
-scripts/knowlden_audit_report.md
-
-# Private vault content — NEVER commit to public repo
-content/Private/
-content/private/
-content/Estate/
-content/Health/
-content/Finance/
-content/Security/
-content/Clinic/
-content/Copilot-System-Prompts/
-content/copilot-custom-prompts/
-
-# Data files
-content/**/*.json
-content/**/*.py
-content/**/*.sh
-content/**/*.env
-
-# Obsidian internals
-content/.obsidian/
-content/.trash/
-
-# Build artifacts
-public/
-node_modules/
-
-# System
-.DS_Store
+*.swp
 *.log
+.sass-cache/
+
+
+# -----------------------------------------------------------------------------
+# VISUAL / GENERATED CONTENT — large files, not version-control appropriate
+# -----------------------------------------------------------------------------
+x/Visuals/Excalidraw/
+attachments/private/
+content/**/*.json

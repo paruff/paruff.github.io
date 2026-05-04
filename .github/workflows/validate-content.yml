@@ -1,0 +1,111 @@
+name: Validate Content
+
+on:
+  push:
+    branches: [v4]
+    paths:
+      - "content/**"
+      - "quartz.config.ts"
+      - "quartz.layout.ts"
+      - ".github/workflows/validate-content.yml"
+  pull_request:
+    branches: [v4]
+    paths:
+      - "content/**"
+      - "quartz.config.ts"
+      - "quartz.layout.ts"
+      - ".github/workflows/validate-content.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-frontmatter:
+    name: Validate YAML Frontmatter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Validate YAML frontmatter in all markdown files
+        run: |
+          node --input-type=module - <<'EOF'
+          import { readFileSync, readdirSync, statSync } from "fs";
+          import { join, relative } from "path";
+          import yaml from "js-yaml";
+
+          const CONTENT_DIR = "content";
+          let errors = 0;
+
+          function walkDir(dir) {
+            for (const entry of readdirSync(dir)) {
+              const fullPath = join(dir, entry);
+              if (statSync(fullPath).isDirectory()) {
+                walkDir(fullPath);
+              } else if (entry.endsWith(".md")) {
+                validateFile(fullPath);
+              }
+            }
+          }
+
+          function validateFile(filePath) {
+            const relPath = relative(process.cwd(), filePath);
+            const raw = readFileSync(filePath, "utf8");
+
+            // Must start with --- to have frontmatter worth validating
+            if (!raw.startsWith("---")) return;
+
+            const endIndex = raw.indexOf("---", 3);
+            if (endIndex === -1) {
+              console.error(`❌ ${relPath}: frontmatter block is not closed`);
+              errors++;
+              return;
+            }
+
+            const frontmatter = raw.slice(3, endIndex);
+            try {
+              yaml.load(frontmatter);
+            } catch (err) {
+              console.error(`❌ ${relPath}: ${err.message}`);
+              errors++;
+            }
+          }
+
+          walkDir(CONTENT_DIR);
+
+          if (errors > 0) {
+            console.error(`\nFound ${errors} frontmatter error(s). Fix them before merging.`);
+            process.exit(1);
+          } else {
+            console.log("✅ All markdown frontmatter is valid YAML.");
+          }
+          EOF
+
+  quartz-build:
+    name: Quartz Build Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Quartz (dry-run validation)
+        run: npx quartz build

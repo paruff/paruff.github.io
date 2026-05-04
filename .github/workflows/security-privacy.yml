@@ -116,7 +116,7 @@ jobs:
 
           # Health Plan Beneficiary / Insurance IDs
           check_pattern "Health Plan / Insurance IDs" \
-            '(?i)(member\s*id\b|beneficiary\s*id\b|insurance\s*id\b|policy\s*(no|number|#))\s*[:\-]?\s*[0-9A-Z\-]{5,}'
+            '(?i)(member\s*id\b|beneficiary\s*id\b|insurance\s*id\b|policy\s*(no|number|#)\b)\s*[:\-]?\s*[0-9A-Z\-]{5,}'
 
           # Dates of birth when adjacent to a name-like context
           check_pattern "Dates of Birth (DOB)" \

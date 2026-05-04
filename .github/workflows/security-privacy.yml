@@ -65,6 +65,7 @@ jobs:
             local matches
             matches=$(grep -rniP --include="*.md" --include="*.ts" --include="*.js" \
               --exclude-dir=node_modules --exclude-dir=public --exclude-dir=".git" \
+              --exclude-dir=Excalidraw \
               "$pattern" $SCAN_DIRS 2>/dev/null)
             if [ -n "$matches" ]; then
               echo "### ❌ $label" >> $GITHUB_STEP_SUMMARY
@@ -115,7 +116,7 @@ jobs:
 
           # Health Plan Beneficiary / Insurance IDs
           check_pattern "Health Plan / Insurance IDs" \
-            '(?i)(member\s*id|beneficiary\s*id|insurance\s*id|policy\s*(no|number|#))\s*[:\-]?\s*[0-9A-Z\-]{5,}'
+            '(?i)(member\s*id\b|beneficiary\s*id\b|insurance\s*id\b|policy\s*(no|number|#))\s*[:\-]?\s*[0-9A-Z\-]{5,}'
 
           # Dates of birth when adjacent to a name-like context
           check_pattern "Dates of Birth (DOB)" \

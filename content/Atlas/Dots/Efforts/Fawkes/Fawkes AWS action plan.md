@@ -78,7 +78,7 @@ If you applied with Gmail/Outlook:
 1. Get a professional email (ideally custom domain)
 2. Options:
    - Register domain: fawkes.dev ($12/year)
-   - Set up email: you@fawkes.dev
+   - Set up email: <your-email@yourdomain.com>
    - Google Workspace: $6/month
    - Zoho Mail: Free tier available
 3. Update AWS account email address

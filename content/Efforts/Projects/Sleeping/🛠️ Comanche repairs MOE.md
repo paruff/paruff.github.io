@@ -25,7 +25,7 @@ Tasks:
 Repair/renovations:
 RAM Restoration 6781 Kennedy Road #1
 Warrenton, VA 20187
-Office (703) 361-2551 Fax (703) 361-2771 Federal Tax ID # 84-2678408
+Office [redacted] Fax [redacted] Federal Tax ID # [redacted]
 VA Class A Contractor License # 2705176096
 
 Scope

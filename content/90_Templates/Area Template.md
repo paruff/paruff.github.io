@@ -1,9 +1,11 @@
 ---
-
-up: "[[Home]]" collection: "[[Areas]]" created: 2026-04-22 tags:
-
-- map status: active review: monthly
-
+up: "[[Home]]"
+collection: "[[Areas]]"
+created: 2026-04-22
+tags:
+  - map
+status: active
+review: monthly
 ---
 
 # Area Template (MOE)

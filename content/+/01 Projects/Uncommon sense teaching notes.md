@@ -438,9 +438,9 @@ Soroban Kyuoshitsu USA
 
 1-1-8 Maeji Urawa-ku Saitama City Saitama Prefecture, 330-0053 Japan
 
-TEL: 048-887-1788
+TEL: [redacted]
 
-FAX: 048-886-8301 **Bidirectional Relations Between Procedural and Conceptual Knowledge of Mathematics**
+FAX: [redacted] **Bidirectional Relations Between Procedural and Conceptual Knowledge of Mathematics**
 
 - Rittle-Johnson, B, et al. [**"Not a one-way Street: Bidirectional relations between procedural and conceptual knowledge of mathematics."**](https://www.uni-trier.de/fileadmin/fb1/prof/PSY/PAE/Team/Schneider/Rittle-JohnsonEtAl2015.pdf) _Educational Psychology Review_ 27, no. 4 (2015): 587-597.
     

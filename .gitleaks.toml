@@ -1,0 +1,40 @@
+[allowlist]
+  description = "Vault-wide allowlist for gitleaks"
+  # Ignore paths that cannot contain real secrets (published site content, templates)
+  paths = [
+    '''content/90_Templates''',
+    '''docs''',
+    '''public''',
+    '''node_modules''',
+  ]
+  # Ignore generic template placeholder strings
+  regexes = [
+    # Obsidian / Templater placeholders
+    '''tp\.(date|file|frontmatter|user)\.\w+''',
+    # Example / placeholder tokens in docs
+    '''EXAMPLE_|PLACEHOLDER_|YOUR_|<YOUR_''',
+  ]
+
+# --------------------------------------------------------------------------
+# Custom rules layered on top of the default gitleaks ruleset
+# --------------------------------------------------------------------------
+
+[[rules]]
+  id          = "generic-api-key-in-md"
+  description = "Generic API key pattern inside a markdown note"
+  regex       = '''(?i)(api[_-]?key|apikey)\s*[:=]\s*['\"]?[A-Za-z0-9_\-]{20,}['\"]?'''
+  path        = '''\.md$'''
+  tags        = ["secret", "api-key"]
+
+[[rules]]
+  id          = "generic-token-in-md"
+  description = "Generic bearer/auth token pattern inside a markdown note"
+  regex       = '''(?i)(bearer|token|auth[_-]?token)\s*[:=]\s*['\"]?[A-Za-z0-9_\-\.]{20,}['\"]?'''
+  path        = '''\.md$'''
+  tags        = ["secret", "token"]
+
+[[rules]]
+  id          = "private-key-header"
+  description = "Private key PEM header"
+  regex       = '''-----BEGIN (RSA |EC |DSA |OPENSSH )?PRIVATE KEY-----'''
+  tags        = ["secret", "private-key"]

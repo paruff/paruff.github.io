@@ -1,6 +1,13 @@
-## up: "[[Efforts]]" collection: "[[Works]]" created: 2026-04-22 rank: "3" status: active next:
+---
+up: "[[Efforts]]"
+collection: "[[Works]]"
+created: 2026-04-22
+rank: "3"
+status: active
+next:
+---
 
-# Area Template (MOE)
+# Work Template (MOE)
 
 ## 💡 Vision
 

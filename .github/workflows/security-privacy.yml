@@ -1,0 +1,163 @@
+name: Security and Privacy Scan
+
+on:
+  push:
+    branches: [v4]
+  pull_request:
+    branches: [v4]
+  schedule:
+    # Run weekly on Monday at 06:00 UTC to catch any drift
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write  # required to upload SARIF results
+
+jobs:
+  # --------------------------------------------------------------------------
+  # 1. Secrets scanning with Gitleaks
+  # --------------------------------------------------------------------------
+  secrets-scan:
+    name: Secrets Scan (Gitleaks)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Gitleaks
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Point at our vault-tuned config
+          GITLEAKS_CONFIG: .gitleaks.toml
+          # Don't upload a license key – use the free OSS mode
+          GITLEAKS_ENABLE_COMMENTS: false
+
+  # --------------------------------------------------------------------------
+  # 2. PII / HIPAA pattern scan
+  # --------------------------------------------------------------------------
+  pii-scan:
+    name: PII and HIPAA Pattern Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Scan for PII and HIPAA identifiers
+        id: pii_scan
+        shell: bash
+        run: |
+          set +e  # collect all findings before failing
+
+          FINDINGS=0
+          SCAN_DIRS="content quartz.config.ts quartz.layout.ts"
+
+          echo "## PII / HIPAA Scan Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Helper: run a pattern search and report findings
+          check_pattern() {
+            local label="$1"
+            local pattern="$2"
+            local matches
+            matches=$(grep -rniP --include="*.md" --include="*.ts" --include="*.js" \
+              --exclude-dir=node_modules --exclude-dir=public --exclude-dir=".git" \
+              --exclude-dir=Excalidraw \
+              "$pattern" $SCAN_DIRS 2>/dev/null)
+            if [ -n "$matches" ]; then
+              echo "### ❌ $label" >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+              echo "$matches" | head -20 >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "❌ Found potential $label:"
+              echo "$matches" | head -20
+              FINDINGS=$((FINDINGS + 1))
+            fi
+          }
+
+          # ── PII patterns ────────────────────────────────────────────────────
+
+          # US Social Security Numbers  (xxx-xx-xxxx) — use Perl regex to
+          # exclude ISBN/DOI digit sequences that precede or follow the pattern
+          check_pattern "US Social Security Numbers (SSN)" \
+            '(?<![0-9\-])\b[0-9]{3}-[0-9]{2}-[0-9]{4}\b(?![0-9\-])'
+
+          # EU/PT NIF tax number (9 digits following a NIF label)
+          check_pattern "Portuguese NIF tax identifier" \
+            '(?i)(nif|contribuinte)\s*[:\-]?\s*[0-9]{9}\b'
+
+          # Credit / debit card numbers  (Luhn-checkable but grep on pattern)
+          check_pattern "Credit / Debit Card Numbers" \
+            '\b(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})\b'
+
+          # Email addresses — require an explicit label context to reduce false positives
+          # (e.g. "email:", "contact:", "mailto:") so author attributions are not flagged
+          check_pattern "Email Addresses (labeled, potential PII)" \
+            '(?i)(email|contact|mailto|e-mail)\s*[:\-]?\s*[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}'
+
+          # Phone numbers – require a label keyword to avoid matching version numbers
+          # and timestamps (e.g. "phone:", "tel:", "mobile:", "contact:")
+          check_pattern "Phone Numbers (labeled)" \
+            '(?i)(phone|tel|mobile|fax|contact)\s*[:\-]?\s*(\+?1[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}\b'
+
+          # Passport numbers  (generic 6-9 alphanumeric, heuristic)
+          check_pattern "Passport Numbers (heuristic)" \
+            '(?i)(passport\s*(no|number|#|:))\s*[A-Z0-9]{6,9}\b'
+
+          # ── HIPAA identifiers (Safe Harbor, 45 CFR §164.514(b)) ────────────
+
+          # Medical Record Numbers
+          check_pattern "Medical Record Numbers" \
+            '(?i)(mrn|medical.record.number|record\s*#|chart\s*#)\s*[:\-]?\s*[0-9A-Z]{4,}'
+
+          # Health Plan Beneficiary / Insurance IDs
+          check_pattern "Health Plan / Insurance IDs" \
+            '(?i)(member\s*id\b|beneficiary\s*id\b|insurance\s*id\b|policy\s*(no|number|#)\b)\s*[:\-]?\s*[0-9A-Z\-]{5,}'
+
+          # Dates of birth when adjacent to a name-like context
+          check_pattern "Dates of Birth (DOB)" \
+            '(?i)(dob|date.of.birth|born\s*[:\-])\s*[0-9]{1,2}[\/\-\.][0-9]{1,2}[\/\-\.][0-9]{2,4}'
+
+          # Diagnoses / ICD codes — require an "ICD" or "diagnosis" keyword nearby
+          # to avoid false positives from normal alphanumeric notation
+          check_pattern "ICD-10 Diagnostic Codes (labeled)" \
+            '(?i)(icd[-\s]?10|diagnosis|diagnos[ie]s|diag\.?)\s*[:\-]?\s*[A-TV-Z][0-9][0-9A-Z]\.[0-9A-Z]{1,4}\b'
+
+          # ── Result summary ──────────────────────────────────────────────────
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "$FINDINGS" -gt 0 ]; then
+            echo "### Summary: $FINDINGS PII/HIPAA pattern(s) detected" >> $GITHUB_STEP_SUMMARY
+            echo "Review the findings above and remove or redact the identified content before merging." >> $GITHUB_STEP_SUMMARY
+            echo ""
+            echo "::error::$FINDINGS PII/HIPAA pattern category(ies) detected. See the job summary for details."
+            exit 1
+          else
+            echo "### ✅ No PII or HIPAA identifiers detected" >> $GITHUB_STEP_SUMMARY
+            echo "✅ PII / HIPAA scan passed — no sensitive identifiers found."
+          fi
+
+  # --------------------------------------------------------------------------
+  # 3. Dependency vulnerability audit
+  # --------------------------------------------------------------------------
+  dependency-audit:
+    name: Dependency Vulnerability Audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies (no scripts)
+        run: npm ci --ignore-scripts
+
+      - name: Audit for high/critical vulnerabilities
+        run: |
+          # Fail only on high and critical vulnerabilities
+          npm audit --audit-level=high

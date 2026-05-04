@@ -1,9 +1,9 @@
 ---
-up: "[[Area Template]]"
+up: "[[Efforts]]"
 created: 2026-04-22
 ---
 
-# Area Template — Dashboard
+# Effort Dashboard Template — Dashboard
 
 > Updated: 2026-04-22
 

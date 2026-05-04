@@ -7,7 +7,7 @@ status: active
 next:
 ---
 
-# Area Template (MOE)
+# Work Template (MOE)
 
 ## 💡 Vision
 

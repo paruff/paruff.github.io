@@ -1,5 +1,7 @@
-----
-## up: "[[Area Template]]" created: 2026-04-22
+---
+up: "[[Area Template]]"
+created: 2026-04-22
+---
 
 # Area Template — Dashboard
 

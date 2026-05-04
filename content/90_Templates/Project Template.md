@@ -1,4 +1,12 @@
-## up: "[[Efforts]]" collection: "[[Projects]]" created: <% tp.date.now("YYYY-MM-DD") %> rank: "2" status: active next: review: weekly
+---
+up: "[[Efforts]]"
+collection: "[[Projects]]"
+created: <% tp.date.now("YYYY-MM-DD") %>
+rank: "2"
+status: active
+next:
+review: weekly
+---
 
 # <% tp.file.title %> (MOE)
 

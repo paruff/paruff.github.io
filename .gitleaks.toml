@@ -11,8 +11,8 @@
   regexes = [
     # Obsidian / Templater placeholders
     '''tp\.(date|file|frontmatter|user)\.\w+''',
-    # Example / placeholder tokens in docs
-    '''EXAMPLE_|PLACEHOLDER_|YOUR_|<YOUR_''',
+    # Example / placeholder tokens in docs (case-insensitive)
+    '''(?i)(EXAMPLE_|PLACEHOLDER_|YOUR_|<YOUR_)''',
   ]
 
 # --------------------------------------------------------------------------
@@ -32,6 +32,10 @@
   regex       = '''(?i)(bearer|token|auth[_-]?token)\s*[:=]\s*['\"]?[A-Za-z0-9_\-\.]{20,}['\"]?'''
   path        = '''\.md$'''
   tags        = ["secret", "token"]
+
+  [rules.allowlist]
+    description = "Ignore YouTube redirect redir_token URL parameters — these are public routing tokens, not credentials"
+    regexes     = ['''youtube\.com/redirect[^\s]*redir_token=''']
 
 [[rules]]
   id          = "private-key-header"

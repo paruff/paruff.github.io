@@ -35,7 +35,7 @@
 
   [rules.allowlist]
     description = "Ignore YouTube redirect redir_token URL parameters — these are public routing tokens, not credentials"
-    regexes     = ['''redir_token=''', '''youtube\.com/redirect''']
+    regexes     = ['''youtube\.com/redirect[^\s]*redir_token=''']
 
 [[rules]]
   id          = "private-key-header"
